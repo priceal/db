@@ -1,49 +1,55 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb  5 08:28:07 2025
-
-perform an analysis of header information in a directory of mmCIF files.
-for current purposes, assume they are ASU files, not assemblies
+Created on Thu Feb 20 10:40:36 2025
 
 @author: allen
+
+downloads sequence files for a list of PDB ids. The sequence data
+is the fasta file from PDB, with sequences of all polymer entities.
+
 """
-import os
+
+import requests
+import json
 import pandas as pd
-import sys
-sys.path.insert(0, '/home/allen/projects/PDB')
-import pdbTools as pt
+from itertools import batched
+import os
 
+# define script variables
+pdbCodeFile = './pdbListAll.txt'              # file containing pdb ids
+fastaDirectory = '../DATA/db/fasta'            # directory to contain fasta files
+maxNumber = 1000      # maximum number to download (limit to first maxNumber ids)
 
+###############################################################################
+# load in pdb ids
+# use below if csv file with one column labeled 'pdbid'
+if os.path.splitext(pdbCodeFile)[-1] == '.csv':  
+    df = pd.read_csv(pdbCodeFile)
+    pdbCodes=list(df['pdbid'])
+else:    # a simple whitespace separated list of ids
+    with open(pdbCodeFile) as f:
+        fileRead=f.read()
+    pdbCodes = fileRead.strip().split()
     
-# define data directory
-pdbCsv='df.csv'
-dataDirectory      = 'fasta'
+# limit to maxNumber
+print('read in',len(pdbCodes),'pdb ids\n')
+pdbCodes = pdbCodes[:maxNumber]
+print('limiting to first',len(pdbCodes),'pdb ids\n')
 
-if not os.path.exists( dataDirectory ):
-    os.mkdir( dataDirectory )
-
-df=pd.read_csv(pdbCsv)
-pdbCodes = [ s.split('\'')[1].upper() for s in df['pdbid'] ]
-
+'''
+the following will create the directory for sequence files and download the 
+fasta files. Here, all are downloaded from the PDB.
+'''
+os.makedirs(fastaDirectory,exist_ok=True)
+print('downloading fasta files to', fastaDirectory)
 for code in pdbCodes:
-    print( code, end=' ')
-    text = pt.fetchSequence(code)
-    with open( os.path.join(dataDirectory,code.lower()+'.fasta'), 'w') as f:
-        f.write(text)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    # the fasta file - n.b. need upper case for these files!
+    url = 'https://www.rcsb.org/fasta/entry/' + code.upper()
+    download = requests.get(url)
+    with open( os.path.join(fastaDirectory,code+'.fasta'), 'w' ) as f:
+        f.write( download.text )
+print('downloads completed.')
+        
+        
+        

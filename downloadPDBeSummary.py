@@ -7,9 +7,9 @@ Created on Thu Feb 20 10:40:36 2025
 
 downloads summary information, structure and sequence files for a list of PDB
 ids. the summary information is downloaded from the PDBe and is used to create
-a summary dataframe which can be saved in a csv file. for the structure, the
-preferred biological assembly is downloaded from the PDB. The sequence data
-is the fasta file from PDB, with sequences of all polymer entities.
+a summary dataframe which can be saved in a csv file. for the structure.
+The sequence data is the fasta file from PDB, with sequences of all polymer 
+entities.
 
 """
 
@@ -21,24 +21,21 @@ import os
 
 # define script variables
 pdbCodeFile = './pdbListAll.txt'              # file containing pdb ids
-assemblyDirectory = '../DATA/db/assemblies'   # directory to contain assembly files
-fastaDirectory = '../DATA/db/fasta'            # directory to contain fasta files
 summaryFile = 'summary.csv'  # name of summary file to save, set to '' if not wanted
 batchSize = 100            # batch size for download (must be <1000)
-maxNumber = 20      # maximum number to download (limit to first maxNumber ids)
+maxNumber = 1000      # maximum number to download (limit to first maxNumber ids)
 
 ###############################################################################
 # load in pdb ids
-# use below for comma separated list of codes
-with open(pdbCodeFile) as f:
-    fileRead=f.read()
-pdbCodes = fileRead.strip().split(',')
-
-'''
 # use below if csv file with one column labeled 'pdbid'
-df = pd.read_csv(pdbCodeFile)
-pdbCodes=list(df['pdbid'])
-'''
+if os.path.splitext(pdbCodeFile)[-1] == '.csv':  
+    df = pd.read_csv(pdbCodeFile)
+    pdbCodes=list(df['pdbid'])
+else:    # a simple whitespace separated list of ids
+    with open(pdbCodeFile) as f:
+        fileRead=f.read()
+    pdbCodes = fileRead.strip().split()
+
 # limit to maxNumber
 print('read in',len(pdbCodes),'pdb ids\n')
 pdbCodes = pdbCodes[:maxNumber]
@@ -48,13 +45,15 @@ print('limiting to first',len(pdbCodes),'pdb ids\n')
 # up to 1000 at a time
 urlPrefix = 'https://www.ebi.ac.uk/pdbe/api/pdb/entry/summary/'
 pdbCodesBatched = batched( pdbCodes, batchSize ) # creates list of batches 
-reportDict = {}
+reportDict = {}   # to store downloads
+pdbCodes = [c.lower() for c in pdbCodes] # need lower case for PDBe
 print('downloading summary data from PDBe')
 for batch in pdbCodesBatched:
     print('downloading batch...', end='')
     # data=list of comma separated ids
     report=requests.post(urlPrefix,data=','.join(batch)) 
-    reportDict.update( json.loads(report.text) ) # append current batch
+    # convert json format to dictionary and append to dictionary
+    reportDict.update( json.loads(report.text) ) 
     print(len(reportDict),'total entries')
 print(len(reportDict),'entries downloaded')
 
@@ -69,7 +68,7 @@ entryKeys = ['title', 'processing_site', 'deposition_site', 'deposition_date', \
              'entry_authors', 'number_of_entities', 'assemblies']
 '''
 # keys with numerical, string or list values
-simpleKeys = ['title', 'deposition_date', 'experimental_method', 'related_structures']
+simpleKeys = ['title', 'deposition_date', 'experimental_method']
 
 # keys of the sub-dictionaries that are the values associated with keys 
 # 'number_of_entities' and 'assemblies'
@@ -83,7 +82,7 @@ dataKeys = ['pdbid'] + simpleKeys + entityKeys + ['assemblies'] + assemblyKeys
 
 # creation of the summary dictionary, 'dataDict'. Must use entry[0] to extract
 # dictionary as it is surrounded by [] when returned by json.loads()
-dataDict = { k:[] for k in dataKeys } 
+dataDict = { k:[] for k in dataKeys }   # blank dictionary of lists
 print('creating summary dataframe...')
 for pdbid,entry in reportDict.items():
     dataDict['pdbid'].append(pdbid)
@@ -101,35 +100,11 @@ for pdbid,entry in reportDict.items():
             for ak in assemblyKeys:
                 dataDict[ak].append(d[ak])
 dataDf = pd.DataFrame(dataDict)  # create the dataframe
+
+# print for review and save
 print(dataDf)
 print( dataDf.describe() )
 if summaryFile: dataDf.to_csv(summaryFile) # save if requested
 
-'''
-the following will create the directories for structure and sequence files
-and download the preferred assemblies and the fasta files. Here, all are
-downloaded from the PDB.
-'''
-os.makedirs(assemblyDirectory,exist_ok=True)
-os.makedirs(fastaDirectory,exist_ok=True)
-print('downloading data files to',assemblyDirectory,'and',fastaDirectory)
-for i in dataDf.index:
-    code=dataDf.at[i,'pdbid']
-    
-    # the assembly file
-    assembly=dataDf.at[i,'assembly_id']
-    fileName = code + '-assembly' + assembly + '.cif'
-    url = 'https://files.rcsb.org/download/' + fileName
-    download = requests.get(url)
-    with open( os.path.join(assemblyDirectory,fileName), 'w' ) as f:
-        f.write( download.text )
-    
-    # the fasta file - n.b. need upper case for these files!
-    url = 'https://www.rcsb.org/fasta/entry/' + code.upper()
-    download = requests.get(url)
-    with open( os.path.join(fastaDirectory,code+'.fasta'), 'w' ) as f:
-        f.write( download.text )
 
-        
-        
         
