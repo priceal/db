@@ -5,8 +5,19 @@ Created on Thu Feb 20 10:40:36 2025
 
 @author: allen
 
-downloads sequence files for a list of PDB ids. The sequence data
-is the fasta file from PDB, with sequences of all polymer entities.
+database:   Protein Data Bank 
+            https://files.rcsb.org
+
+Downloads sequence files for a list of PDB ids. The sequence data
+is the fasta file from PDB--containing the sequence of the crystallized
+entity in the case of x-ray strutures, with sequences of all polymer entities.
+
+N.B. This sequence will contain all residues, even those not observed in
+experimental structure.
+
+List of PDB ids can be either a .csv with a column header 'pdbid', created 
+by downloadPDBeSummary.py for example. Or it can be a white space separated
+list of PDB ids.
 
 """
 

@@ -5,11 +5,14 @@ Created on Thu Feb 20 10:40:36 2025
 
 @author: allen
 
-downloads assembly structure files from a summary dataframe created by
-'downloadPDBeSummary.py'
+database:   Protein Data Bank 
+            https://files.rcsb.org
 
-the summary dataframe must be saved in a csv file.
-the preferred biological assembly is downloaded from the PDB. 
+downloads preferred assembly structure for a list of PDB ids. 
+Needs the summary dataframe saved as a csv created by 
+'downloadPDBeSummary.py', as it reads the PDB ids and the preferred 
+assembly label from that dataframe.
+
 """
 
 import requests
