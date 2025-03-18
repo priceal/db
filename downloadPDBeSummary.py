@@ -5,11 +5,12 @@ Created on Thu Feb 20 10:40:36 2025
 
 @author: allen
 
-downloads summary information, structure and sequence files for a list of PDB
-ids. the summary information is downloaded from the PDBe and is used to create
-a summary dataframe which can be saved in a csv file. for the structure.
-The sequence data is the fasta file from PDB, with sequences of all polymer 
-entities.
+database:   Protein Data Bank in Europe
+            https://www.ebi.ac.uk/pdbe/
+            
+downloads summary information for a list of PDB ids. the summary information 
+is downloaded from the PDBe and is used to create a summary dataframe which 
+can be saved in a csv file. 
 
 """
 
