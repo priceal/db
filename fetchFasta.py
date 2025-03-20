@@ -30,7 +30,7 @@ import os
 # define script variables
 pdbCodeFile = './pdbListAll.txt'              # file containing pdb ids
 fastaDirectory = '../DATA/db/fasta'            # directory to contain fasta files
-maxNumber = 1000      # maximum number to download (limit to first maxNumber ids)
+maxNumber = 100      # maximum number to download (limit to first maxNumber ids)
 
 ###############################################################################
 # load in pdb ids
