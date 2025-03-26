@@ -1,0 +1,18 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+<<<<<<< HEAD
+recent_files = ['fetchFasta.py', 'analyzeHeaders.py', 'README.md', 'fetchAssemblies.py', 'structureListNotes.py']
+||||||| f9a4fff
+recent_files = ['fetchFasta.py', 'analyzeHeaders.py', 'README.md', 'fetchAssemblies.py']
+=======
+recent_files = ['summaryFasta.py', 'untitled0.py']
+>>>>>>> origin/main
+
+[main]
+version = 0.2.0
+recent_files = []
+
