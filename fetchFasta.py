@@ -28,9 +28,9 @@ from itertools import batched
 import os
 
 # define script variables
-pdbCodeFile = './pdbListAll.txt'              # file containing pdb ids
+pdbCodeFile = './summary.csv'              # file containing pdb ids
 fastaDirectory = '../DATA/db/fasta'            # directory to contain fasta files
-maxNumber = 100      # maximum number to download (limit to first maxNumber ids)
+maxNumber = 20      # maximum number to download (limit to first maxNumber ids)
 
 ###############################################################################
 # load in pdb ids
