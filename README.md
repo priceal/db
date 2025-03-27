@@ -14,18 +14,6 @@ is downloaded from the PDBe and is used to create a summary dataframe which
 can be saved in a csv file. 
 
 ###############################################################################
-fetchAssemblies.py
-###############################################################################
-
-database:   Protein Data Bank 
-            https://files.rcsb.org
-
-Downloads preferred assembly structure for a list of PDB ids. 
-Needs the summary dataframe saved as a csv created by 
-'downloadPDBeSummary.py', as it reads the PDB ids and the preferred 
-assembly label from that dataframe.
-
-###############################################################################
 fetchFasta.py
 ###############################################################################
 
@@ -42,3 +30,27 @@ experimental structure.
 List of PDB ids can be either a .csv with a column header 'pdbid', created 
 by downloadPDBeSummary.py for example. Or it can be a white space separated
 list of PDB ids.
+
+###############################################################################
+summaryFasta.py
+###############################################################################
+
+Analyzes the fasta files in a given directory. creates a dataframe with pdbid,
+path and columns for lengths of dna and proteins. the dna/protein columns 
+contain lists of the lengths of each dna or protein entity. Can be used for
+length filtering. 
+
+###############################################################################
+fetchAssemblies.py
+###############################################################################
+
+database:   Protein Data Bank 
+            https://files.rcsb.org
+
+Downloads preferred assembly structure for a list of PDB ids. 
+Needs the summary dataframe saved as a csv created by 
+'downloadPDBeSummary.py', as it reads the PDB ids and the preferred 
+assembly label from that dataframe.
+
+
+

@@ -1,0 +1,1001 @@
+pdbid,path,dna,U,protein,duplex
+1MHD,../DATA/db/fasta/1MHD.fasta,"[13, 14]",[],[132],False
+1OH7,../DATA/db/fasta/1OH7.fasta,"[30, 30]",[],[800],False
+1WB9,../DATA/db/fasta/1WB9.fasta,"[18, 17]",[],[800],False
+1K82,../DATA/db/fasta/1K82.fasta,[13],[],"[13, 268]",False
+1P71,../DATA/db/fasta/1P71.fasta,[21],[],[94],False
+1ECR,../DATA/db/fasta/1ECR.fasta,"[16, 16]",[],[309],False
+1XC8,../DATA/db/fasta/1XC8.fasta,"[14, 14]",[],[271],False
+1C0W,../DATA/db/fasta/1C0W.fasta,"[21, 21]",[],[225],False
+1NK9,../DATA/db/fasta/1NK9.fasta,"[12, 15]",[],[580],False
+1B3T,../DATA/db/fasta/1B3T.fasta,[18],[],[147],True
+1CKT,../DATA/db/fasta/1CKT.fasta,[16],[16],[71],False
+1EVW,../DATA/db/fasta/1EVW.fasta,"[12, 8, 12, 8]",[],[163],False
+1RFF,../DATA/db/fasta/1RFF.fasta,[4],[],"[485, 8]",False
+1IV6,../DATA/db/fasta/1IV6.fasta,"[13, 13]",[],[70],True
+2C22,../DATA/db/fasta/2C22.fasta,"[13, 18]",[],[358],False
+2BPF,../DATA/db/fasta/2BPF.fasta,"[8, 7]",[],[335],False
+1BG1,../DATA/db/fasta/1BG1.fasta,[18],[],[596],False
+2BCR,../DATA/db/fasta/2BCR.fasta,"[4, 7, 12]",[],[335],False
+1XS9,../DATA/db/fasta/1XS9.fasta,"[20, 20]",[],"[132, 84]",True
+2E2I,../DATA/db/fasta/2E2I.fasta,"[28, 14]",[10],"[122, 70, 120, 70, 1733, 1224, 318, 215, 155, 146]",False
+1N5Y,../DATA/db/fasta/1N5Y.fasta,"[21, 27]",[],"[558, 225, 430, 211]",False
+1BDX,../DATA/db/fasta/1BDX.fasta,[16],[],[203],True
+1X9S,../DATA/db/fasta/1X9S.fasta,"[22, 26]",[],"[698, 108]",False
+2AC0,../DATA/db/fasta/2AC0.fasta,[12],[],[200],True
+1T8E,../DATA/db/fasta/1T8E.fasta,"[22, 26]",[],"[698, 108]",False
+2B0D,../DATA/db/fasta/2B0D.fasta,[11],[],[245],False
+1DDN,../DATA/db/fasta/1DDN.fasta,"[33, 33]",[],[226],False
+1RRJ,../DATA/db/fasta/1RRJ.fasta,"[22, 22]",[],[565],True
+2DGC,../DATA/db/fasta/2DGC.fasta,[19],[],[63],False
+1A36,../DATA/db/fasta/1A36.fasta,"[22, 22]",[],[591],True
+1YUJ,../DATA/db/fasta/1YUJ.fasta,"[11, 11]",[],[54],True
+2F8X,../DATA/db/fasta/2F8X.fasta,"[18, 18]",[],"[434, 256, 63]",True
+1FN7,../DATA/db/fasta/1FN7.fasta,[15],[],"[15, 317]",False
+1ZME,../DATA/db/fasta/1ZME.fasta,[17],[17],[70],False
+1GU5,../DATA/db/fasta/1GU5.fasta,"[16, 16]",[],[78],False
+1SKS,../DATA/db/fasta/1SKS.fasta,"[21, 25]",[],"[698, 108]",False
+1ZNS,../DATA/db/fasta/1ZNS.fasta,[12],[],[134],True
+1MHT,../DATA/db/fasta/1MHT.fasta,"[12, 13]",[],[327],False
+1AHD,../DATA/db/fasta/1AHD.fasta,"[14, 14]",[],[68],True
+1ZBL,../DATA/db/fasta/1ZBL.fasta,[12],[12],[139],False
+1QPS,../DATA/db/fasta/1QPS.fasta,"[5, 8]",[],[261],False
+1RPE,../DATA/db/fasta/1RPE.fasta,"[20, 20]",[],[69],False
+2AGO,../DATA/db/fasta/2AGO.fasta,"[14, 17]",[],[341],False
+1JXL,../DATA/db/fasta/1JXL.fasta,[12],[16],[352],False
+1YFI,../DATA/db/fasta/1YFI.fasta,[10],[],[262],True
+1F4R,../DATA/db/fasta/1F4R.fasta,"[13, 13]",[],[219],False
+1MSF,../DATA/db/fasta/1MSF.fasta,"[16, 16]",[],[105],True
+1LCC,../DATA/db/fasta/1LCC.fasta,"[11, 11]",[],[51],True
+1KQQ,../DATA/db/fasta/1KQQ.fasta,"[15, 15]",[],[139],True
+1AAY,../DATA/db/fasta/1AAY.fasta,"[11, 11]",[],[90],False
+1MWJ,../DATA/db/fasta/1MWJ.fasta,[],[12],[168],False
+1FLO,../DATA/db/fasta/1FLO.fasta,"[13, 20]",[],[422],False
+1MQ3,../DATA/db/fasta/1MQ3.fasta,"[16, 10, 5]",[],[335],False
+1HLV,../DATA/db/fasta/1HLV.fasta,"[21, 21]",[],[131],True
+1SRS,../DATA/db/fasta/1SRS.fasta,[19],[19],[92],False
+1TK8,../DATA/db/fasta/1TK8.fasta,"[22, 26]",[],"[698, 108]",False
+1R0A,../DATA/db/fasta/1R0A.fasta,"[27, 21]",[],"[558, 429, 211, 225]",False
+1NK7,../DATA/db/fasta/1NK7.fasta,"[10, 15]",[],[580],False
+1T2K,../DATA/db/fasta/1T2K.fasta,"[31, 31]",[],"[112, 62, 61]",False
+1SA3,../DATA/db/fasta/1SA3.fasta,[10],[],[262],True
+1J5O,../DATA/db/fasta/1J5O.fasta,"[19, 18]",[],"[558, 430, 214, 220]",False
+2E52,../DATA/db/fasta/2E52.fasta,[12],[],[300],True
+1WTQ,../DATA/db/fasta/1WTQ.fasta,[8],[],[66],True
+1S0M,../DATA/db/fasta/1S0M.fasta,"[13, 16]",[],[352],False
+1D1U,../DATA/db/fasta/1D1U.fasta,"[6, 10]",[],[255],False
+1U0D,../DATA/db/fasta/1U0D.fasta,"[24, 24]",[],[163],True
+1SL1,../DATA/db/fasta/1SL1.fasta,"[22, 25]",[],"[698, 108]",False
+1A6B,../DATA/db/fasta/1A6B.fasta,[5],[],[40],False
+1WVL,../DATA/db/fasta/1WVL.fasta,[10],[],[80],True
+1NOY,../DATA/db/fasta/1NOY.fasta,[3],[],[388],False
+1ODH,../DATA/db/fasta/1ODH.fasta,"[13, 13]",[],[174],True
+1RVB,../DATA/db/fasta/1RVB.fasta,[11],[],[244],False
+1A6Y,../DATA/db/fasta/1A6Y.fasta,[20],[20],[94],False
+1UNM,../DATA/db/fasta/1UNM.fasta,[],[6],[11],False
+1R8D,../DATA/db/fasta/1R8D.fasta,"[26, 26]",[],[109],False
+1WTO,../DATA/db/fasta/1WTO.fasta,[8],[],[66],True
+2C7R,../DATA/db/fasta/2C7R.fasta,"[12, 12]",[],[327],False
+1AU7,../DATA/db/fasta/1AU7.fasta,"[25, 24]",[],[146],False
+1BPY,../DATA/db/fasta/1BPY.fasta,"[16, 10, 5]",[],[335],False
+2A66,../DATA/db/fasta/2A66.fasta,"[12, 12]",[],[113],True
+1AN4,../DATA/db/fasta/1AN4.fasta,"[21, 21]",[],[65],False
+1EMH,../DATA/db/fasta/1EMH.fasta,[10],[9],[223],False
+1Z1C,../DATA/db/fasta/1Z1C.fasta,"[12, 9]",[],[587],False
+1M3Q,../DATA/db/fasta/1M3Q.fasta,[15],[],"[15, 317]",False
+1AM9,../DATA/db/fasta/1AM9.fasta,"[17, 21]",[],[82],False
+1CYQ,../DATA/db/fasta/1CYQ.fasta,[21],[],[162],False
+1OE5,../DATA/db/fasta/1OE5.fasta,[12],[],"[247, 13]",False
+1L3L,../DATA/db/fasta/1L3L.fasta,[20],[],[234],True
+1DEW,../DATA/db/fasta/1DEW.fasta,[14],[],"[15, 279]",False
+1W0U,../DATA/db/fasta/1W0U.fasta,"[17, 17]",[],[55],True
+1XF2,../DATA/db/fasta/1XF2.fasta,[3],[],"[214, 230]",False
+1QSL,../DATA/db/fasta/1QSL.fasta,[8],[],[605],False
+1J5K,../DATA/db/fasta/1J5K.fasta,[10],[],[89],False
+1YSA,../DATA/db/fasta/1YSA.fasta,"[20, 20]",[],[58],False
+1P78,../DATA/db/fasta/1P78.fasta,[21],[],[94],False
+1AKH,../DATA/db/fasta/1AKH.fasta,"[21, 21]",[],"[83, 61]",False
+1JK1,../DATA/db/fasta/1JK1.fasta,"[11, 11]",[],[90],False
+1BDI,../DATA/db/fasta/1BDI.fasta,[17],[],[340],False
+1EON,../DATA/db/fasta/1EON.fasta,"[11, 11]",[],[245],False
+1A66,../DATA/db/fasta/1A66.fasta,"[12, 12]",[],[178],True
+1XBR,../DATA/db/fasta/1XBR.fasta,[24],[],[184],True
+1CIT,../DATA/db/fasta/1CIT.fasta,"[16, 16]",[],[89],True
+1ZQF,../DATA/db/fasta/1ZQF.fasta,"[8, 7]",[],[335],False
+1H6F,../DATA/db/fasta/1H6F.fasta,[24],[],[193],False
+2BQU,../DATA/db/fasta/2BQU.fasta,[13],[],"[358, 18]",False
+1ZQS,../DATA/db/fasta/1ZQS.fasta,"[8, 7]",[],[335],False
+1ZG1,../DATA/db/fasta/1ZG1.fasta,"[20, 20]",[],[82],True
+2C2D,../DATA/db/fasta/2C2D.fasta,"[13, 18]",[],[358],False
+1C7U,../DATA/db/fasta/1C7U.fasta,[20],[],[85],True
+1APL,../DATA/db/fasta/1APL.fasta,"[21, 21]",[],[83],False
+1BRN,../DATA/db/fasta/1BRN.fasta,[4],[],[110],False
+1U8R,../DATA/db/fasta/1U8R.fasta,"[33, 33]",[],[230],False
+1Y1W,../DATA/db/fasta/1Y1W.fasta,"[19, 7, 10]",[],"[171, 146, 122, 70, 120, 70, 1733, 1224, 318, 221, 215, 155]",False
+1QQA,../DATA/db/fasta/1QQA.fasta,[17],[],[340],False
+1EJ9,../DATA/db/fasta/1EJ9.fasta,"[23, 23]",[],[563],False
+2BZF,../DATA/db/fasta/2BZF.fasta,"[7, 7]",[],[89],True
+1KB2,../DATA/db/fasta/1KB2.fasta,"[18, 18]",[],[110],True
+2A07,../DATA/db/fasta/2A07.fasta,"[21, 21]",[],[93],False
+1HCQ,../DATA/db/fasta/1HCQ.fasta,"[18, 18]",[],[84],False
+1E3M,../DATA/db/fasta/1E3M.fasta,"[30, 30]",[],[800],False
+1I3W,../DATA/db/fasta/1I3W.fasta,[],[10],[11],False
+1BF4,../DATA/db/fasta/1BF4.fasta,[8],[8],[63],False
+2FDG,../DATA/db/fasta/2FDG.fasta,[3],[],[211],False
+1RVA,../DATA/db/fasta/1RVA.fasta,[11],[],[244],False
+1LBG,../DATA/db/fasta/1LBG.fasta,[21],[],[360],False
+1F0V,../DATA/db/fasta/1F0V.fasta,[2],[],[124],True
+1QNA,../DATA/db/fasta/1QNA.fasta,"[14, 14]",[],[200],True
+1A1V,../DATA/db/fasta/1A1V.fasta,[],[8],[476],True
+1ZRE,../DATA/db/fasta/1ZRE.fasta,"[17, 21]",[],[209],False
+2EZE,../DATA/db/fasta/2EZE.fasta,"[12, 12]",[],[25],True
+1ZQQ,../DATA/db/fasta/1ZQQ.fasta,"[8, 7]",[],[335],False
+1U1Q,../DATA/db/fasta/1U1Q.fasta,[],[],"[11, 196]",False
+1WTV,../DATA/db/fasta/1WTV.fasta,[8],[],[66],True
+1NK0,../DATA/db/fasta/1NK0.fasta,"[11, 15]",[],[580],False
+1S6M,../DATA/db/fasta/1S6M.fasta,[25],[],[293],False
+2AU0,../DATA/db/fasta/2AU0.fasta,"[13, 19]",[],[360],False
+1D66,../DATA/db/fasta/1D66.fasta,"[19, 19]",[],[66],True
+1F5T,../DATA/db/fasta/1F5T.fasta,"[43, 43]",[],[121],False
+1B97,../DATA/db/fasta/1B97.fasta,[11],[],[244],False
+1BC8,../DATA/db/fasta/1BC8.fasta,"[10, 10]",[],[93],False
+1D0E,../DATA/db/fasta/1D0E.fasta,[11],[],[259],False
+1SXQ,../DATA/db/fasta/1SXQ.fasta,"[13, 13]",[],[351],True
+2BNW,../DATA/db/fasta/2BNW.fasta,"[18, 18]",[],[53],False
+1PA6,../DATA/db/fasta/1PA6.fasta,"[12, 12]",[],"[460, 216]",False
+1S0N,../DATA/db/fasta/1S0N.fasta,"[13, 18]",[],[352],False
+1J1V,../DATA/db/fasta/1J1V.fasta,"[13, 13]",[],[94],True
+1XPX,../DATA/db/fasta/1XPX.fasta,"[10, 10]",[],[163],True
+1O3T,../DATA/db/fasta/1O3T.fasta,"[14, 17]",[],[200],False
+2BCQ,../DATA/db/fasta/2BCQ.fasta,"[7, 12, 4]",[],[335],False
+2AOQ,../DATA/db/fasta/2AOQ.fasta,[12],[],[223],True
+1ODG,../DATA/db/fasta/1ODG.fasta,[12],[],[134],False
+1MW8,../DATA/db/fasta/1MW8.fasta,[11],[],[592],False
+1M19,../DATA/db/fasta/1M19.fasta,[146],[],"[135, 102, 129, 125]",True
+1NOP,../DATA/db/fasta/1NOP.fasta,[6],[],"[485, 8]",False
+1S32,../DATA/db/fasta/1S32.fasta,[146],[],"[135, 102, 119, 122]",True
+1DCT,../DATA/db/fasta/1DCT.fasta,"[18, 18]",[],[324],False
+1QNC,../DATA/db/fasta/1QNC.fasta,"[14, 14]",[],[200],True
+1BL0,../DATA/db/fasta/1BL0.fasta,"[24, 24]",[],[129],False
+1JJ6,../DATA/db/fasta/1JJ6.fasta,[14],[14],[52],False
+1G9Y,../DATA/db/fasta/1G9Y.fasta,"[24, 24]",[],[152],True
+1N6J,../DATA/db/fasta/1N6J.fasta,"[14, 14]",[],"[93, 35]",True
+1OE4,../DATA/db/fasta/1OE4.fasta,[12],[],"[247, 12]",False
+1DSD,../DATA/db/fasta/1DSD.fasta,[8],[],[11],False
+1S0O,../DATA/db/fasta/1S0O.fasta,"[13, 17]",[],[352],False
+2BQR,../DATA/db/fasta/2BQR.fasta,[13],[],"[358, 18]",False
+1CJG,../DATA/db/fasta/1CJG.fasta,[22],[],[62],True
+1SUZ,../DATA/db/fasta/1SUZ.fasta,[11],[],[244],False
+1RM1,../DATA/db/fasta/1RM1.fasta,"[18, 18]",[],"[240, 122, 286]",True
+1QN7,../DATA/db/fasta/1QN7.fasta,"[14, 14]",[],[200],True
+2ASD,../DATA/db/fasta/2ASD.fasta,"[13, 19]",[],[360],False
+1NH3,../DATA/db/fasta/1NH3.fasta,[],"[10, 12, 22]",[563],False
+1ZR2,../DATA/db/fasta/1ZR2.fasta,"[19, 3, 13]",[],[183],False
+1ERI,../DATA/db/fasta/1ERI.fasta,[13],[],[276],False
+1MJE,../DATA/db/fasta/1MJE.fasta,[6],[],"[649, 70]",False
+2DDG,../DATA/db/fasta/2DDG.fasta,[14],[],"[15, 219]",False
+1ZQG,../DATA/db/fasta/1ZQG.fasta,"[8, 7]",[],[335],False
+1J46,../DATA/db/fasta/1J46.fasta,"[14, 14]",[],[85],True
+1GU4,../DATA/db/fasta/1GU4.fasta,"[16, 16]",[],[78],False
+2EXF,../DATA/db/fasta/2EXF.fasta,[14],[],[44],False
+1ZBB,../DATA/db/fasta/1ZBB.fasta,"[347, 347]",[],"[135, 102, 129, 125]",True
+1XSN,../DATA/db/fasta/1XSN.fasta,"[11, 6, 4]",[],[335],True
+1OUZ,../DATA/db/fasta/1OUZ.fasta,"[35, 15, 20]",[],"[99, 94]",True
+2DA8,../DATA/db/fasta/2DA8.fasta,[6],[],[8],True
+1F2I,../DATA/db/fasta/1F2I.fasta,[14],[],[73],True
+1QN6,../DATA/db/fasta/1QN6.fasta,"[14, 14]",[],[200],True
+2B9S,../DATA/db/fasta/2B9S.fasta,"[10, 12, 22]",[],"[432, 62]",True
+1ZQK,../DATA/db/fasta/1ZQK.fasta,"[8, 7]",[],[335],False
+2A0I,../DATA/db/fasta/2A0I.fasta,[22],[],[330],False
+1GAU,../DATA/db/fasta/1GAU.fasta,"[8, 8]",[],[60],True
+1H38,../DATA/db/fasta/1H38.fasta,"[18, 10]",[12],[883],False
+1JX4,../DATA/db/fasta/1JX4.fasta,"[13, 18]",[],[352],False
+1GA5,../DATA/db/fasta/1GA5.fasta,[20],[20],[94],False
+1HAP,../DATA/db/fasta/1HAP.fasta,[15],[],"[36, 259]",False
+2BNZ,../DATA/db/fasta/2BNZ.fasta,"[18, 18]",[],[53],False
+1DE9,../DATA/db/fasta/1DE9.fasta,"[4, 9]",[],"[5, 276]",False
+2DPJ,../DATA/db/fasta/2DPJ.fasta,"[7, 9]",[],[420],False
+1PM5,../DATA/db/fasta/1PM5.fasta,[14],[],"[14, 271]",False
+1K8G,../DATA/db/fasta/1K8G.fasta,[6],[],[320],False
+1Q3F,../DATA/db/fasta/1Q3F.fasta,[10],[],"[9, 223]",False
+1JKQ,../DATA/db/fasta/1JKQ.fasta,"[14, 14]",[],[52],False
+1S0V,../DATA/db/fasta/1S0V.fasta,"[18, 10]",[12],[883],False
+1NK6,../DATA/db/fasta/1NK6.fasta,"[9, 15]",[],[580],False
+1D2I,../DATA/db/fasta/1D2I.fasta,[16],[],[223],False
+1DP7,../DATA/db/fasta/1DP7.fasta,[],[16],[76],False
+1KBU,../DATA/db/fasta/1KBU.fasta,"[34, 34]",[],[349],True
+1D8Y,../DATA/db/fasta/1D8Y.fasta,[19],[],[605],False
+1FJA,../DATA/db/fasta/1FJA.fasta,[8],[],[11],True
+1J59,../DATA/db/fasta/1J59.fasta,"[14, 17]",[],[209],False
+2FDH,../DATA/db/fasta/2FDH.fasta,[3],[],[211],False
+1EBM,../DATA/db/fasta/1EBM.fasta,"[15, 15]",[],[317],True
+1NKP,../DATA/db/fasta/1NKP.fasta,[19],[],"[88, 83]",False
+1WTB,../DATA/db/fasta/1WTB.fasta,[4],[],[79],False
+1CLQ,../DATA/db/fasta/1CLQ.fasta,"[11, 12]",[],[903],False
+1I8M,../DATA/db/fasta/1I8M.fasta,"[5, 2]",[],"[214, 224]",False
+1PVI,../DATA/db/fasta/1PVI.fasta,[13],[],[157],False
+1TSR,../DATA/db/fasta/1TSR.fasta,"[21, 21]",[],[219],False
+1IGN,../DATA/db/fasta/1IGN.fasta,"[19, 19]",[],[246],False
+1TAU,../DATA/db/fasta/1TAU.fasta,"[8, 8]",[],[832],True
+1RCS,../DATA/db/fasta/1RCS.fasta,[20],[],[105],True
+1H8A,../DATA/db/fasta/1H8A.fasta,"[26, 26]",[],"[78, 128]",False
+1P8K,../DATA/db/fasta/1P8K.fasta,"[18, 13, 16, 15]",[],[254],False
+1JFT,../DATA/db/fasta/1JFT.fasta,[17],[],[340],False
+1ESG,../DATA/db/fasta/1ESG.fasta,"[8, 8]",[],[213],True
+1A31,../DATA/db/fasta/1A31.fasta,[],"[22, 22]",[591],True
+1O3S,../DATA/db/fasta/1O3S.fasta,"[11, 15]",[],[200],False
+193D,../DATA/db/fasta/193D.fasta,[8],[],[8],True
+1R0N,../DATA/db/fasta/1R0N.fasta,"[18, 18]",[],"[81, 109]",False
+1YNW,../DATA/db/fasta/1YNW.fasta,"[18, 18]",[],"[110, 99]",False
+1Z1G,../DATA/db/fasta/1Z1G.fasta,"[29, 29, 29, 29, 25, 25]",[],[356],False
+1S40,../DATA/db/fasta/1S40.fasta,[11],[],[199],False
+1QAI,../DATA/db/fasta/1QAI.fasta,[8],[],[265],True
+1CW0,../DATA/db/fasta/1CW0.fasta,"[12, 3, 9]",[],[155],True
+1HVO,../DATA/db/fasta/1HVO.fasta,[5],[],[18],False
+1LQ1,../DATA/db/fasta/1LQ1.fasta,"[16, 16]",[],[120],False
+1KC6,../DATA/db/fasta/1KC6.fasta,[12],[],[257],True
+1YQL,../DATA/db/fasta/1YQL.fasta,"[13, 12]",[],[319],False
+1SKW,../DATA/db/fasta/1SKW.fasta,"[21, 25]",[],"[698, 108]",False
+1N3A,../DATA/db/fasta/1N3A.fasta,[15],[],"[15, 317]",False
+1FYL,../DATA/db/fasta/1FYL.fasta,[],[12],[92],False
+1GAT,../DATA/db/fasta/1GAT.fasta,"[8, 8]",[],[60],True
+2BPG,../DATA/db/fasta/2BPG.fasta,"[8, 7]",[],[335],False
+2DWL,../DATA/db/fasta/2DWL.fasta,[2],[],[105],False
+2EFW,../DATA/db/fasta/2EFW.fasta,"[21, 21]",[],[122],True
+1Y1Y,../DATA/db/fasta/1Y1Y.fasta,"[7, 4]",[],"[146, 122, 70, 120, 70, 179, 1733, 1224, 318, 221, 215, 155, 171]",False
+1IXY,../DATA/db/fasta/1IXY.fasta,[13],[],"[13, 351]",False
+1LE5,../DATA/db/fasta/1LE5.fasta,"[12, 12]",[],"[274, 313]",False
+1KX5,../DATA/db/fasta/1KX5.fasta,"[147, 147]",[],"[135, 102, 128, 125]",True
+1ZAA,../DATA/db/fasta/1ZAA.fasta,"[11, 11]",[],[87],False
+1PER,../DATA/db/fasta/1PER.fasta,"[20, 20]",[],[69],False
+1G2D,../DATA/db/fasta/1G2D.fasta,"[16, 16]",[],[90],False
+1OUP,../DATA/db/fasta/1OUP.fasta,"[8, 6, 2]",[],[213],False
+1LMB,../DATA/db/fasta/1LMB.fasta,"[20, 20]",[],[92],False
+185D,../DATA/db/fasta/185D.fasta,[6],[],[8],True
+1DNK,../DATA/db/fasta/1DNK.fasta,"[7, 8]",[],[260],False
+1KSP,../DATA/db/fasta/1KSP.fasta,[3],[],[605],False
+2ETW,../DATA/db/fasta/2ETW.fasta,"[14, 14]",[],[345],False
+1PH7,../DATA/db/fasta/1PH7.fasta,[13],[],"[11, 460, 216]",False
+1I3J,../DATA/db/fasta/1I3J.fasta,"[21, 21]",[],[116],False
+1RB8,../DATA/db/fasta/1RB8.fasta,[4],[],"[187, 431, 37]",False
+1S9F,../DATA/db/fasta/1S9F.fasta,"[13, 18]",[],[352],False
+1TK5,../DATA/db/fasta/1TK5.fasta,"[22, 26]",[],"[698, 108]",False
+1L1Z,../DATA/db/fasta/1L1Z.fasta,[16],[],"[16, 274]",False
+1SL2,../DATA/db/fasta/1SL2.fasta,"[22, 25]",[],"[698, 108]",False
+2CGP,../DATA/db/fasta/2CGP.fasta,"[11, 15]",[],[210],False
+1HBX,../DATA/db/fasta/1HBX.fasta,"[26, 26]",[],"[92, 157]",False
+1QN8,../DATA/db/fasta/1QN8.fasta,"[14, 14]",[],[200],True
+1RFI,../DATA/db/fasta/1RFI.fasta,[4],[],"[485, 5]",False
+1ZTT,../DATA/db/fasta/1ZTT.fasta,"[8, 8]",[],[255],True
+1NZB,../DATA/db/fasta/1NZB.fasta,[37],[37],[343],False
+1SL0,../DATA/db/fasta/1SL0.fasta,"[21, 25]",[],"[698, 108]",False
+1PH1,../DATA/db/fasta/1PH1.fasta,[13],[],"[461, 217]",False
+1XHU,../DATA/db/fasta/1XHU.fasta,"[7, 6]",[],[257],False
+1K4T,../DATA/db/fasta/1K4T.fasta,"[10, 12, 22]",[],[592],False
+2CAX,../DATA/db/fasta/2CAX.fasta,"[17, 17, 18, 18]",[],[53],False
+1NK3,../DATA/db/fasta/1NK3.fasta,"[16, 16]",[],[77],True
+1N4L,../DATA/db/fasta/1N4L.fasta,"[16, 16]",[],[255],True
+1BSS,../DATA/db/fasta/1BSS.fasta,[11],[],[244],False
+2ALZ,../DATA/db/fasta/2ALZ.fasta,"[9, 7]",[],[390],False
+1JKR,../DATA/db/fasta/1JKR.fasta,"[14, 14]",[],[52],False
+1DGC,../DATA/db/fasta/1DGC.fasta,[19],[],[62],False
+1L1T,../DATA/db/fasta/1L1T.fasta,[16],[],"[16, 274]",False
+1P7D,../DATA/db/fasta/1P7D.fasta,"[13, 26]",[],[283],False
+1VAS,../DATA/db/fasta/1VAS.fasta,"[13, 13]",[],[137],False
+1F4K,../DATA/db/fasta/1F4K.fasta,"[21, 21]",[],[122],True
+1Y6F,../DATA/db/fasta/1Y6F.fasta,[13],[],"[13, 403]",False
+1ZJM,../DATA/db/fasta/1ZJM.fasta,"[16, 10, 5]",[],[335],False
+1DU0,../DATA/db/fasta/1DU0.fasta,"[21, 21]",[],[57],False
+1WTX,../DATA/db/fasta/1WTX.fasta,[8],[],[66],True
+1OVF,../DATA/db/fasta/1OVF.fasta,[11],[],[11],False
+1IU3,../DATA/db/fasta/1IU3.fasta,"[10, 10]",[],[116],True
+1J3E,../DATA/db/fasta/1J3E.fasta,"[10, 10]",[],[115],False
+1AZ0,../DATA/db/fasta/1AZ0.fasta,[11],[],[244],False
+1R4O,../DATA/db/fasta/1R4O.fasta,[19],[],[92],False
+1LB2,../DATA/db/fasta/1LB2.fasta,"[20, 24]",[],"[209, 84]",False
+2DPU,../DATA/db/fasta/2DPU.fasta,"[10, 11]",[],[122],False
+1RGT,../DATA/db/fasta/1RGT.fasta,[4],[],[485],False
+1ORP,../DATA/db/fasta/1ORP.fasta,[11],[],"[11, 226]",False
+1LWY,../DATA/db/fasta/1LWY.fasta,[15],[],"[15, 324]",False
+1QN9,../DATA/db/fasta/1QN9.fasta,"[14, 14]",[],[200],True
+1GT0,../DATA/db/fasta/1GT0.fasta,"[24, 24]",[],"[159, 80]",False
+1ZVV,../DATA/db/fasta/1ZVV.fasta,[16],[],"[332, 85]",False
+2AQ4,../DATA/db/fasta/2AQ4.fasta,"[12, 16]",[],[434],False
+1A3Q,../DATA/db/fasta/1A3Q.fasta,"[11, 11]",[],[285],True
+2EZG,../DATA/db/fasta/2EZG.fasta,"[12, 12]",[],[10],True
+1S9K,../DATA/db/fasta/1S9K.fasta,"[20, 20]",[],"[280, 53, 52]",False
+1KX3,../DATA/db/fasta/1KX3.fasta,[146],[],"[135, 102, 128, 125]",True
+1PH4,../DATA/db/fasta/1PH4.fasta,"[13, 12]",[],"[460, 216]",False
+2EZD,../DATA/db/fasta/2EZD.fasta,"[12, 12]",[],[25],True
+1LLI,../DATA/db/fasta/1LLI.fasta,"[20, 20]",[],[92],False
+1NKE,../DATA/db/fasta/1NKE.fasta,"[11, 16]",[],[580],False
+1YFL,../DATA/db/fasta/1YFL.fasta,[16],[],[259],True
+2DTU,../DATA/db/fasta/2DTU.fasta,[15],[],"[18, 896]",False
+1P34,../DATA/db/fasta/1P34.fasta,[146],[],"[135, 102, 129, 125]",True
+1R71,../DATA/db/fasta/1R71.fasta,[],"[17, 17]",[178],True
+1JJ8,../DATA/db/fasta/1JJ8.fasta,[14],[14],[52],False
+1VFC,../DATA/db/fasta/1VFC.fasta,"[13, 13]",[],[63],True
+1L2D,../DATA/db/fasta/1L2D.fasta,[16],[],"[16, 274]",False
+1U1N,../DATA/db/fasta/1U1N.fasta,[11],[],[196],False
+1BC7,../DATA/db/fasta/1BC7.fasta,"[11, 11]",[],[93],True
+1NK8,../DATA/db/fasta/1NK8.fasta,"[11, 15]",[],[580],False
+1U1L,../DATA/db/fasta/1U1L.fasta,[11],[],[196],False
+1ZG5,../DATA/db/fasta/1ZG5.fasta,[20],[],[82],True
+1HUO,../DATA/db/fasta/1HUO.fasta,"[11, 7]",[],[335],False
+1S10,../DATA/db/fasta/1S10.fasta,"[13, 17]",[],[352],False
+1KSY,../DATA/db/fasta/1KSY.fasta,"[21, 21]",[],[154],True
+1Q0T,../DATA/db/fasta/1Q0T.fasta,[12],[],[259],True
+1KFV,../DATA/db/fasta/1KFV.fasta,[13],[],"[13, 271]",False
+1SKR,../DATA/db/fasta/1SKR.fasta,"[22, 26]",[],"[698, 108]",False
+2EUZ,../DATA/db/fasta/2EUZ.fasta,"[14, 14]",[],[345],False
+2E2J,../DATA/db/fasta/2E2J.fasta,"[27, 13]",[9],"[122, 70, 120, 70, 1733, 1224, 318, 215, 155, 146]",False
+1DC1,../DATA/db/fasta/1DC1.fasta,[13],[],[323],False
+2EA0,../DATA/db/fasta/2EA0.fasta,[12],[],"[12, 262]",False
+1OUQ,../DATA/db/fasta/1OUQ.fasta,"[21, 37]",[16],[343],False
+1QP4,../DATA/db/fasta/1QP4.fasta,[17],[],[340],False
+1EOO,../DATA/db/fasta/1EOO.fasta,[12],[],[245],True
+1JE8,../DATA/db/fasta/1JE8.fasta,[20],[],[82],True
+1NWQ,../DATA/db/fasta/1NWQ.fasta,"[21, 21]",[],[62],False
+1R7M,../DATA/db/fasta/1R7M.fasta,"[25, 25]",[],[235],False
+1T9J,../DATA/db/fasta/1T9J.fasta,"[24, 24]",[],[163],True
+1RYR,../DATA/db/fasta/1RYR.fasta,"[13, 16]",[],[352],False
+1RC8,../DATA/db/fasta/1RC8.fasta,[5],[],[301],False
+2BGW,../DATA/db/fasta/2BGW.fasta,"[15, 15]",[],[219],True
+1MWI,../DATA/db/fasta/1MWI.fasta,[],[],"[12, 168]",True
+1SKM,../DATA/db/fasta/1SKM.fasta,[13],[],"[13, 327]",False
+1HAO,../DATA/db/fasta/1HAO.fasta,[15],[],"[36, 259]",False
+1ZQM,../DATA/db/fasta/1ZQM.fasta,"[8, 7]",[],[335],False
+2C7P,../DATA/db/fasta/2C7P.fasta,"[12, 12]",[],[327],True
+2AXY,../DATA/db/fasta/2AXY.fasta,[7],[],[73],False
+1L1M,../DATA/db/fasta/1L1M.fasta,"[23, 23]",[],[62],True
+1CQT,../DATA/db/fasta/1CQT.fasta,"[15, 15]",[],"[163, 44]",False
+1VPW,../DATA/db/fasta/1VPW.fasta,[17],[],[340],False
+1HHT,../DATA/db/fasta/1HHT.fasta,[5],[],[664],False
+2BQ3,../DATA/db/fasta/2BQ3.fasta,[14],[],"[358, 18]",False
+1N39,../DATA/db/fasta/1N39.fasta,[15],[],"[15, 317]",False
+1JNM,../DATA/db/fasta/1JNM.fasta,[20],[],[62],True
+1ZZJ,../DATA/db/fasta/1ZZJ.fasta,[15],[],[82],False
+1IG7,../DATA/db/fasta/1IG7.fasta,"[13, 16]",[],[58],False
+1S76,../DATA/db/fasta/1S76.fasta,"[21, 17, 9]",[],[883],False
+1BSU,../DATA/db/fasta/1BSU.fasta,[],[],"[10, 11, 244]",False
+1F4S,../DATA/db/fasta/1F4S.fasta,"[10, 10]",[],[65],True
+1Y6G,../DATA/db/fasta/1Y6G.fasta,[12],[13],[403],False
+1FYK,../DATA/db/fasta/1FYK.fasta,[],[],"[4, 92]",False
+1YO5,../DATA/db/fasta/1YO5.fasta,"[13, 13]",[],[97],True
+2AS5,../DATA/db/fasta/2AS5.fasta,"[21, 21]",[],"[287, 93]",False
+1PUE,../DATA/db/fasta/1PUE.fasta,"[16, 16]",[],[89],False
+2DRP,../DATA/db/fasta/2DRP.fasta,"[19, 19]",[],[66],False
+1QN5,../DATA/db/fasta/1QN5.fasta,"[14, 14]",[],[200],True
+1TRR,../DATA/db/fasta/1TRR.fasta,[16],[],[107],True
+1HWT,../DATA/db/fasta/1HWT.fasta,"[20, 20]",[],[81],True
+1TTU,../DATA/db/fasta/1TTU.fasta,"[15, 15]",[],[477],False
+1WBB,../DATA/db/fasta/1WBB.fasta,"[18, 17]",[],[800],False
+1PH8,../DATA/db/fasta/1PH8.fasta,"[13, 12]",[],"[460, 216]",False
+1ZR4,../DATA/db/fasta/1ZR4.fasta,"[19, 3, 13]",[],[183],False
+1SAX,../DATA/db/fasta/1SAX.fasta,"[25, 25]",[],[123],False
+1HJC,../DATA/db/fasta/1HJC.fasta,"[16, 16]",[],[123],False
+2F5S,../DATA/db/fasta/2F5S.fasta,"[16, 16]",[],[274],False
+2D5V,../DATA/db/fasta/2D5V.fasta,"[14, 14]",[],[164],True
+1P51,../DATA/db/fasta/1P51.fasta,[19],[],[94],False
+1GTW,../DATA/db/fasta/1GTW.fasta,"[16, 16]",[],[78],False
+1BBX,../DATA/db/fasta/1BBX.fasta,[12],[],[63],True
+1H89,../DATA/db/fasta/1H89.fasta,"[26, 26]",[],"[64, 159]",False
+1LE8,../DATA/db/fasta/1LE8.fasta,"[20, 20]",[],"[53, 83]",False
+1EYG,../DATA/db/fasta/1EYG.fasta,[35],[],[116],False
+1EWN,../DATA/db/fasta/1EWN.fasta,"[12, 12]",[],[219],False
+1ZQ3,../DATA/db/fasta/1ZQ3.fasta,"[13, 13]",[],[68],True
+2EVJ,../DATA/db/fasta/2EVJ.fasta,"[14, 14]",[],[345],False
+1JGG,../DATA/db/fasta/1JGG.fasta,"[10, 10]",[],[60],True
+1SC7,../DATA/db/fasta/1SC7.fasta,"[10, 12, 22]",[],[592],True
+2EVI,../DATA/db/fasta/2EVI.fasta,"[14, 14]",[],[345],False
+1XC9,../DATA/db/fasta/1XC9.fasta,"[10, 15]",[],[580],False
+1IMH,../DATA/db/fasta/1IMH.fasta,"[15, 15]",[],[281],False
+1HJB,../DATA/db/fasta/1HJB.fasta,"[26, 26]",[],"[87, 123]",False
+1AN2,../DATA/db/fasta/1AN2.fasta,[22],[],[86],True
+2EUX,../DATA/db/fasta/2EUX.fasta,"[14, 14]",[],[345],False
+2D55,../DATA/db/fasta/2D55.fasta,[8],[],[11],True
+2ES2,../DATA/db/fasta/2ES2.fasta,[6],[],[67],False
+1W0T,../DATA/db/fasta/1W0T.fasta,"[19, 19]",[],[53],False
+1MUH,../DATA/db/fasta/1MUH.fasta,"[20, 20]",[],[481],True
+1KLN,../DATA/db/fasta/1KLN.fasta,"[13, 10]",[],[605],False
+1R4I,../DATA/db/fasta/1R4I.fasta,"[18, 18]",[],[105],True
+1I6H,../DATA/db/fasta/1I6H.fasta,"[13, 9]",[],"[70, 120, 70, 1733, 1224, 318, 215, 155, 146, 122]",False
+1IG4,../DATA/db/fasta/1IG4.fasta,[12],[],[75],True
+1F6O,../DATA/db/fasta/1F6O.fasta,[13],[],"[13, 219]",False
+1RZT,../DATA/db/fasta/1RZT.fasta,"[11, 5, 4]",[],[331],False
+1TC3,../DATA/db/fasta/1TC3.fasta,"[21, 20]",[],[51],False
+1PP8,../DATA/db/fasta/1PP8.fasta,"[12, 12]",[],[132],False
+1U35,../DATA/db/fasta/1U35.fasta,[146],[],"[136, 103, 120, 126]",True
+1NK4,../DATA/db/fasta/1NK4.fasta,"[9, 16]",[],[580],False
+2E42,../DATA/db/fasta/2E42.fasta,"[16, 16]",[],[78],False
+1SXP,../DATA/db/fasta/1SXP.fasta,"[13, 13]",[],[351],False
+1S77,../DATA/db/fasta/1S77.fasta,"[21, 17, 10]",[],[883],False
+1R9T,../DATA/db/fasta/1R9T.fasta,"[28, 14]",[10],"[122, 70, 120, 70, 1733, 1224, 318, 215, 155, 146]",False
+1U8B,../DATA/db/fasta/1U8B.fasta,"[6, 5, 12, 13]",[],[133],False
+1L2B,../DATA/db/fasta/1L2B.fasta,"[16, 8, 7]",[],[274],False
+1DE8,../DATA/db/fasta/1DE8.fasta,[11],[],"[11, 276]",False
+1QBJ,../DATA/db/fasta/1QBJ.fasta,[7],[],[81],False
+1K7A,../DATA/db/fasta/1K7A.fasta,"[15, 15]",[],[110],False
+2C9N,../DATA/db/fasta/2C9N.fasta,"[11, 11]",[],[63],False
+1U49,../DATA/db/fasta/1U49.fasta,"[11, 15]",[],[580],False
+1QRI,../DATA/db/fasta/1QRI.fasta,[13],[],[261],False
+1YF3,../DATA/db/fasta/1YF3.fasta,"[13, 13]",[],[259],False
+1BVO,../DATA/db/fasta/1BVO.fasta,"[15, 15]",[],[175],False
+1MA7,../DATA/db/fasta/1MA7.fasta,"[34, 34]",[],[349],True
+2ACJ,../DATA/db/fasta/2ACJ.fasta,"[17, 17]",[],[66],False
+1GD2,../DATA/db/fasta/1GD2.fasta,[13],[],[70],False
+1JEY,../DATA/db/fasta/1JEY.fasta,"[21, 34]",[],"[609, 565]",False
+1NK2,../DATA/db/fasta/1NK2.fasta,"[16, 16]",[],[77],True
+1HRY,../DATA/db/fasta/1HRY.fasta,"[8, 8]",[],[76],True
+1H9D,../DATA/db/fasta/1H9D.fasta,"[10, 10]",[],"[134, 134]",True
+1P3O,../DATA/db/fasta/1P3O.fasta,[146],[],"[135, 102, 129, 125]",True
+1PFE,../DATA/db/fasta/1PFE.fasta,[8],[],[8],True
+1TQE,../DATA/db/fasta/1TQE.fasta,"[17, 17]",[],"[93, 26]",False
+2AJQ,../DATA/db/fasta/2AJQ.fasta,"[22, 26]",[],"[704, 108]",False
+1EWQ,../DATA/db/fasta/1EWQ.fasta,"[23, 22]",[],[765],False
+1BP7,../DATA/db/fasta/1BP7.fasta,"[24, 24]",[],[152],True
+1QX0,../DATA/db/fasta/1QX0.fasta,[25],[],[293],False
+1J9N,../DATA/db/fasta/1J9N.fasta,"[6, 6]",[],[6],True
+1OE6,../DATA/db/fasta/1OE6.fasta,[12],[],"[12, 247]",False
+2C2R,../DATA/db/fasta/2C2R.fasta,"[14, 18]",[],[358],False
+1Q9Y,../DATA/db/fasta/1Q9Y.fasta,"[18, 14]",[],[906],False
+1WTP,../DATA/db/fasta/1WTP.fasta,[],[8],[66],False
+1PVQ,../DATA/db/fasta/1PVQ.fasta,"[34, 34]",[],[349],True
+1ZET,../DATA/db/fasta/1ZET.fasta,[13],[14],[388],False
+1K79,../DATA/db/fasta/1K79.fasta,"[15, 15]",[],[110],False
+1L1V,../DATA/db/fasta/1L1V.fasta,[9],[],[11],False
+1I6J,../DATA/db/fasta/1I6J.fasta,"[6, 10]",[],[256],False
+1FYM,../DATA/db/fasta/1FYM.fasta,[12],[],[92],True
+1H88,../DATA/db/fasta/1H88.fasta,"[26, 26]",[],"[78, 159]",False
+2E2H,../DATA/db/fasta/2E2H.fasta,"[28, 14]",[10],"[122, 70, 120, 70, 1733, 1224, 318, 215, 155, 146]",False
+1FJL,../DATA/db/fasta/1FJL.fasta,"[14, 14, 14]",[],[81],False
+1M0E,../DATA/db/fasta/1M0E.fasta,"[12, 12]",[],[327],True
+1XSL,../DATA/db/fasta/1XSL.fasta,"[4, 11, 6]",[],[335],True
+1XVN,../DATA/db/fasta/1XVN.fasta,[8],[],[8],True
+1LEI,../DATA/db/fasta/1LEI.fasta,[17],[17],"[313, 274]",False
+1CBV,../DATA/db/fasta/1CBV.fasta,[3],[],"[219, 219]",False
+2AGP,../DATA/db/fasta/2AGP.fasta,"[13, 17]",[],[341],False
+1U1R,../DATA/db/fasta/1U1R.fasta,[11],[],[196],False
+1HI0,../DATA/db/fasta/1HI0.fasta,[5],[],[664],False
+1F0O,../DATA/db/fasta/1F0O.fasta,[13],[],[157],False
+1EQZ,../DATA/db/fasta/1EQZ.fasta,[146],[],"[129, 126, 136, 103]",True
+1P7H,../DATA/db/fasta/1P7H.fasta,"[15, 15]",[],[286],False
+1PVR,../DATA/db/fasta/1PVR.fasta,"[34, 34]",[],[349],True
+1EXJ,../DATA/db/fasta/1EXJ.fasta,[21],[],[278],False
+1AZQ,../DATA/db/fasta/1AZQ.fasta,[8],[],[66],True
+10MH,../DATA/db/fasta/10MH.fasta,"[12, 12]",[],[327],True
+2CCZ,../DATA/db/fasta/2CCZ.fasta,[15],[],[123],False
+1RUN,../DATA/db/fasta/1RUN.fasta,"[14, 17]",[],[209],False
+1OWR,../DATA/db/fasta/1OWR.fasta,"[15, 15]",[],[284],False
+1STX,../DATA/db/fasta/1STX.fasta,"[6, 5]",[],[244],False
+1AWC,../DATA/db/fasta/1AWC.fasta,[],"[21, 21]","[110, 153]",False
+1UAA,../DATA/db/fasta/1UAA.fasta,[16],[],[673],False
+1YTF,../DATA/db/fasta/1YTF.fasta,"[16, 16]",[],"[180, 53, 79, 121]",True
+1G2F,../DATA/db/fasta/1G2F.fasta,"[16, 16]",[],[90],False
+1ZS4,../DATA/db/fasta/1ZS4.fasta,"[27, 27]",[],[83],False
+2F55,../DATA/db/fasta/2F55.fasta,[],"[13, 3]",[435],False
+1NNJ,../DATA/db/fasta/1NNJ.fasta,[14],[],"[14, 271]",False
+1MVM,../DATA/db/fasta/1MVM.fasta,"[11, 4, 1]",[],[587],False
+1B01,../DATA/db/fasta/1B01.fasta,"[19, 19]",[],[45],False
+2C6Y,../DATA/db/fasta/2C6Y.fasta,"[16, 16]",[],[111],False
+1Z9C,../DATA/db/fasta/1Z9C.fasta,"[29, 29]",[],[147],False
+1Q9X,../DATA/db/fasta/1Q9X.fasta,"[18, 13]",[],[903],False
+1BGB,../DATA/db/fasta/1BGB.fasta,[11],[],[244],False
+1B94,../DATA/db/fasta/1B94.fasta,[11],[],[244],False
+1MOW,../DATA/db/fasta/1MOW.fasta,"[23, 23]",[],[260],True
+1EGW,../DATA/db/fasta/1EGW.fasta,"[17, 17]",[],[77],False
+1QUM,../DATA/db/fasta/1QUM.fasta,"[6, 13]",[],"[7, 285]",False
+1DMU,../DATA/db/fasta/1DMU.fasta,[17],[],[299],False
+1MDM,../DATA/db/fasta/1MDM.fasta,"[26, 26]",[],"[149, 161]",False
+1YFJ,../DATA/db/fasta/1YFJ.fasta,[15],[],[259],False
+1G38,../DATA/db/fasta/1G38.fasta,"[10, 10]",[],[393],True
+1FOS,../DATA/db/fasta/1FOS.fasta,"[20, 20]",[],"[62, 62]",False
+1R4R,../DATA/db/fasta/1R4R.fasta,"[19, 19]",[],[92],False
+1CMA,../DATA/db/fasta/1CMA.fasta,"[10, 9]",[],[104],False
+1PH2,../DATA/db/fasta/1PH2.fasta,"[13, 9]",[],"[459, 216]",False
+1NG9,../DATA/db/fasta/1NG9.fasta,"[30, 30]",[],[800],False
+1BF5,../DATA/db/fasta/1BF5.fasta,"[18, 18]",[],[575],False
+1TX3,../DATA/db/fasta/1TX3.fasta,[13],[],[257],False
+1ID3,../DATA/db/fasta/1ID3.fasta,[146],[],"[135, 102, 131, 130]",True
+1RIO,../DATA/db/fasta/1RIO.fasta,"[27, 27]",[],"[73, 98]",True
+1XSP,../DATA/db/fasta/1XSP.fasta,"[11, 7, 4]",[],[335],True
+1T03,../DATA/db/fasta/1T03.fasta,"[27, 21]",[],"[558, 437, 211, 225]",False
+1MNM,../DATA/db/fasta/1MNM.fasta,"[26, 26]",[],"[100, 87]",False
+1MEY,../DATA/db/fasta/1MEY.fasta,"[13, 13]",[],[87],False
+1T2S,../DATA/db/fasta/1T2S.fasta,[5],[],[123],False
+1LV5,../DATA/db/fasta/1LV5.fasta,"[10, 14]",[],[580],False
+1ORN,../DATA/db/fasta/1ORN.fasta,[11],[],"[11, 226]",False
+1QN4,../DATA/db/fasta/1QN4.fasta,"[14, 14]",[],[200],True
+2C2E,../DATA/db/fasta/2C2E.fasta,"[14, 18]",[],[358],False
+1A35,../DATA/db/fasta/1A35.fasta,[],"[22, 22]",[591],False
+1CA6,../DATA/db/fasta/1CA6.fasta,[8],[],[66],False
+1RBJ,../DATA/db/fasta/1RBJ.fasta,[4],[],[124],False
+1B95,../DATA/db/fasta/1B95.fasta,[11],[],[244],False
+2EWJ,../DATA/db/fasta/2EWJ.fasta,"[16, 16]",[],[309],False
+1A1L,../DATA/db/fasta/1A1L.fasta,"[11, 11]",[],[90],False
+1R8E,../DATA/db/fasta/1R8E.fasta,[23],[],[278],False
+1U1K,../DATA/db/fasta/1U1K.fasta,[11],[],[196],False
+1BJ6,../DATA/db/fasta/1BJ6.fasta,[5],[],[42],False
+1QSS,../DATA/db/fasta/1QSS.fasta,"[12, 14]",[],[539],False
+1JJ4,../DATA/db/fasta/1JJ4.fasta,[16],[],[83],True
+1SEU,../DATA/db/fasta/1SEU.fasta,"[10, 12, 22]",[],[592],True
+2FD8,../DATA/db/fasta/2FD8.fasta,[3],[],[211],False
+1IC8,../DATA/db/fasta/1IC8.fasta,"[21, 21]",[],[194],True
+1T05,../DATA/db/fasta/1T05.fasta,"[27, 21]",[],"[558, 437]",False
+1ZTG,../DATA/db/fasta/1ZTG.fasta,[8],[],[74],False
+1T9I,../DATA/db/fasta/1T9I.fasta,"[24, 24]",[],[163],True
+1NFK,../DATA/db/fasta/1NFK.fasta,[11],[],[325],False
+1RXW,../DATA/db/fasta/1RXW.fasta,"[8, 9]",[],[336],False
+1M5R,../DATA/db/fasta/1M5R.fasta,[13],[],"[13, 351]",False
+1A1G,../DATA/db/fasta/1A1G.fasta,"[11, 11]",[],[90],False
+1QRV,../DATA/db/fasta/1QRV.fasta,[10],[],[73],True
+2DY4,../DATA/db/fasta/2DY4.fasta,"[18, 15]",[],[903],False
+1K61,../DATA/db/fasta/1K61.fasta,[21],[21],[60],False
+1L3S,../DATA/db/fasta/1L3S.fasta,"[16, 9]",[],[580],False
+1JKO,../DATA/db/fasta/1JKO.fasta,"[14, 14]",[],[52],False
+1TK0,../DATA/db/fasta/1TK0.fasta,"[22, 26]",[],"[698, 108]",False
+1PJJ,../DATA/db/fasta/1PJJ.fasta,[14],[],"[14, 271]",False
+1ZQA,../DATA/db/fasta/1ZQA.fasta,"[8, 7]",[],[335],False
+1TN9,../DATA/db/fasta/1TN9.fasta,"[13, 13]",[],[69],True
+2C9L,../DATA/db/fasta/2C9L.fasta,"[19, 18]",[],[63],False
+2D45,../DATA/db/fasta/2D45.fasta,[16],[],[123],True
+1Z63,../DATA/db/fasta/1Z63.fasta,"[25, 25]",[],[500],False
+2AOR,../DATA/db/fasta/2AOR.fasta,[22],[],[223],True
+1IF1,../DATA/db/fasta/1IF1.fasta,[26],[],[113],True
+1HRZ,../DATA/db/fasta/1HRZ.fasta,"[8, 8]",[],[76],True
+1XO0,../DATA/db/fasta/1XO0.fasta,"[35, 35]",[],[324],False
+1WTR,../DATA/db/fasta/1WTR.fasta,[8],[],[66],True
+1SVC,../DATA/db/fasta/1SVC.fasta,[19],[],[365],False
+1JMC,../DATA/db/fasta/1JMC.fasta,[8],[],[246],False
+1A1F,../DATA/db/fasta/1A1F.fasta,"[11, 11]",[],[90],False
+1IJS,../DATA/db/fasta/1IJS.fasta,"[2, 9]",[],[584],False
+1PH6,../DATA/db/fasta/1PH6.fasta,"[13, 11]",[],"[217, 461]",False
+1WET,../DATA/db/fasta/1WET.fasta,[17],[],[340],False
+2EUV,../DATA/db/fasta/2EUV.fasta,"[14, 14]",[],[345],False
+1PV4,../DATA/db/fasta/1PV4.fasta,[2],[],[419],False
+1DSZ,../DATA/db/fasta/1DSZ.fasta,"[15, 15]",[],"[86, 85]",True
+2FDI,../DATA/db/fasta/2FDI.fasta,[3],[],[211],False
+1N56,../DATA/db/fasta/1N56.fasta,[14],[],"[17, 352]",False
+1VS2,../DATA/db/fasta/1VS2.fasta,[8],[],[8],True
+1X9M,../DATA/db/fasta/1X9M.fasta,"[22, 26]",[],"[698, 108]",False
+1TL8,../DATA/db/fasta/1TL8.fasta,"[10, 12, 22]",[],[592],False
+1Q3U,../DATA/db/fasta/1Q3U.fasta,[37],[37],[347],False
+1GLU,../DATA/db/fasta/1GLU.fasta,[19],[],[81],False
+1F66,../DATA/db/fasta/1F66.fasta,[146],[],"[136, 103, 128, 126]",True
+1A74,../DATA/db/fasta/1A74.fasta,[21],[],[163],False
+1H0M,../DATA/db/fasta/1H0M.fasta,[18],[],[234],True
+1R0O,../DATA/db/fasta/1R0O.fasta,"[18, 18]",[],"[86, 109]",False
+1BPX,../DATA/db/fasta/1BPX.fasta,"[16, 10, 5]",[],[335],False
+1CZ0,../DATA/db/fasta/1CZ0.fasta,[21],[],[162],False
+1ZGW,../DATA/db/fasta/1ZGW.fasta,"[18, 18]",[],[139],True
+1OJ8,../DATA/db/fasta/1OJ8.fasta,[4],[],[105],False
+2F5O,../DATA/db/fasta/2F5O.fasta,"[16, 16]",[],[274],False
+1LLM,../DATA/db/fasta/1LLM.fasta,[13],[],[88],False
+1KDH,../DATA/db/fasta/1KDH.fasta,[],[4],[363],False
+1JWL,../DATA/db/fasta/1JWL.fasta,"[23, 23]",[],[333],False
+1SX8,../DATA/db/fasta/1SX8.fasta,[11],[],[244],False
+1M1A,../DATA/db/fasta/1M1A.fasta,[146],[],"[135, 102, 129, 125]",True
+1AOI,../DATA/db/fasta/1AOI.fasta,[146],[],"[116, 87, 116, 99]",True
+1MNN,../DATA/db/fasta/1MNN.fasta,"[14, 14]",[],[340],False
+1E3O,../DATA/db/fasta/1E3O.fasta,"[11, 11]",[],[160],True
+1N3F,../DATA/db/fasta/1N3F.fasta,"[14, 10]",[],[163],False
+1NJY,../DATA/db/fasta/1NJY.fasta,"[11, 16]",[],[580],False
+1T3N,../DATA/db/fasta/1T3N.fasta,"[14, 13]",[],[388],False
+1CF7,../DATA/db/fasta/1CF7.fasta,"[16, 16]",[],"[76, 95]",False
+2AGQ,../DATA/db/fasta/2AGQ.fasta,"[13, 17]",[],[341],False
+1HW2,../DATA/db/fasta/1HW2.fasta,"[22, 22]",[],[239],False
+1AIS,../DATA/db/fasta/1AIS.fasta,[17],[17],"[182, 200]",False
+1KRP,../DATA/db/fasta/1KRP.fasta,[3],[],[605],False
+1LRR,../DATA/db/fasta/1LRR.fasta,"[12, 12]",[],[131],True
+1QP9,../DATA/db/fasta/1QP9.fasta,"[20, 20]",[],[76],True
+1MJP,../DATA/db/fasta/1MJP.fasta,"[10, 9]",[],[104],False
+1IG9,../DATA/db/fasta/1IG9.fasta,"[18, 14]",[],[903],False
+1OH6,../DATA/db/fasta/1OH6.fasta,"[30, 30]",[],[800],False
+1RH6,../DATA/db/fasta/1RH6.fasta,"[15, 15]",[],[55],True
+1IO4,../DATA/db/fasta/1IO4.fasta,"[26, 26]",[],"[78, 123, 141]",False
+1DIZ,../DATA/db/fasta/1DIZ.fasta,[13],[],"[13, 282]",False
+1A1K,../DATA/db/fasta/1A1K.fasta,"[11, 11]",[],[90],False
+1NKC,../DATA/db/fasta/1NKC.fasta,"[15, 15]",[],[580],False
+2ER8,../DATA/db/fasta/2ER8.fasta,[12],[],[72],True
+1K6O,../DATA/db/fasta/1K6O.fasta,"[23, 23]",[],"[93, 103]",True
+1PUF,../DATA/db/fasta/1PUF.fasta,"[20, 20]",[],"[77, 73]",False
+2E1C,../DATA/db/fasta/2E1C.fasta,"[17, 17]",[],[171],True
+1QP0,../DATA/db/fasta/1QP0.fasta,[17],[],[340],False
+1PYI,../DATA/db/fasta/1PYI.fasta,[14],[],[96],True
+1N6Q,../DATA/db/fasta/1N6Q.fasta,"[27, 22]",[],"[558, 430, 211, 225]",False
+2EZV,../DATA/db/fasta/2EZV.fasta,"[21, 21]",[],[269],True
+1DH3,../DATA/db/fasta/1DH3.fasta,[21],[],[55],False
+1MDY,../DATA/db/fasta/1MDY.fasta,[14],[],"[68, 62]",True
+1CO0,../DATA/db/fasta/1CO0.fasta,"[20, 20]",[],[107],True
+1ZQO,../DATA/db/fasta/1ZQO.fasta,"[8, 7]",[],[335],False
+1EXI,../DATA/db/fasta/1EXI.fasta,[21],[],[278],False
+2ERE,../DATA/db/fasta/2ERE.fasta,[15],[],[72],False
+2ERG,../DATA/db/fasta/2ERG.fasta,[15],[],[72],False
+1GM5,../DATA/db/fasta/1GM5.fasta,"[20, 20, 9]",[],[780],False
+1H9T,../DATA/db/fasta/1H9T.fasta,"[19, 19]",[],[243],True
+2DPD,../DATA/db/fasta/2DPD.fasta,"[21, 21]",[],[122],True
+1F44,../DATA/db/fasta/1F44.fasta,"[16, 19]",[],[324],False
+1BNZ,../DATA/db/fasta/1BNZ.fasta,[8],[],[64],True
+1B8I,../DATA/db/fasta/1B8I.fasta,"[15, 15]",[],"[81, 63]",False
+1RGU,../DATA/db/fasta/1RGU.fasta,[4],[],[485],False
+1ZRF,../DATA/db/fasta/1ZRF.fasta,"[17, 21]",[],[209],False
+1ZQH,../DATA/db/fasta/1ZQH.fasta,"[8, 7]",[],[335],False
+1DSC,../DATA/db/fasta/1DSC.fasta,[8],[],[11],True
+1MSE,../DATA/db/fasta/1MSE.fasta,"[16, 16]",[],[105],True
+1QQB,../DATA/db/fasta/1QQB.fasta,[17],[],[340],False
+2F5P,../DATA/db/fasta/2F5P.fasta,"[16, 16]",[],[274],False
+1QP7,../DATA/db/fasta/1QP7.fasta,[17],[],[340],False
+1FIU,../DATA/db/fasta/1FIU.fasta,"[4, 7]",[],[286],False
+1YA6,../DATA/db/fasta/1YA6.fasta,"[12, 12]",[],[403],False
+1LCD,../DATA/db/fasta/1LCD.fasta,"[11, 11]",[],[51],True
+1PJI,../DATA/db/fasta/1PJI.fasta,[14],[],"[14, 271]",False
+1IJW,../DATA/db/fasta/1IJW.fasta,"[14, 14]",[],[52],False
+1A02,../DATA/db/fasta/1A02.fasta,"[20, 20]",[],"[301, 56, 56]",False
+1X9W,../DATA/db/fasta/1X9W.fasta,"[22, 26]",[],"[698, 108]",False
+209D,../DATA/db/fasta/209D.fasta,[8],[],[11],True
+2AYB,../DATA/db/fasta/2AYB.fasta,[16],[],[87],True
+1QZH,../DATA/db/fasta/1QZH.fasta,[6],[],[187],False
+1W36,../DATA/db/fasta/1W36.fasta,[43],[],"[1180, 1122, 608]",False
+2A3V,../DATA/db/fasta/2A3V.fasta,"[40, 43]",[],[320],False
+1G9Z,../DATA/db/fasta/1G9Z.fasta,"[14, 10, 14, 10]",[],[152],False
+2BDP,../DATA/db/fasta/2BDP.fasta,"[9, 10]",[],[580],False
+2EVH,../DATA/db/fasta/2EVH.fasta,"[14, 14]",[],[345],False
+1XJV,../DATA/db/fasta/1XJV.fasta,[10],[],[294],False
+1ZLA,../DATA/db/fasta/1ZLA.fasta,[146],[],"[135, 102, 129, 125, 22]",True
+1U78,../DATA/db/fasta/1U78.fasta,"[26, 26]",[],[141],False
+1A1I,../DATA/db/fasta/1A1I.fasta,"[11, 11]",[],[90],False
+1QSY,../DATA/db/fasta/1QSY.fasta,"[12, 14]",[],[539],False
+1OWG,../DATA/db/fasta/1OWG.fasta,"[35, 15, 20]",[],"[99, 94]",False
+1JKP,../DATA/db/fasta/1JKP.fasta,"[14, 14]",[],[52],False
+1PDN,../DATA/db/fasta/1PDN.fasta,"[15, 15]",[],[128],False
+2ADY,../DATA/db/fasta/2ADY.fasta,[12],[],[200],True
+1QAJ,../DATA/db/fasta/1QAJ.fasta,[8],[],[259],True
+1ZYQ,../DATA/db/fasta/1ZYQ.fasta,"[22, 26]",[],"[698, 108]",False
+1IAW,../DATA/db/fasta/1IAW.fasta,[17],[],[317],False
+1U1O,../DATA/db/fasta/1U1O.fasta,[],[],"[11, 196]",False
+1UUT,../DATA/db/fasta/1UUT.fasta,[15],[],[197],False
+2DP6,../DATA/db/fasta/2DP6.fasta,[14],[],"[15, 219]",False
+2D7D,../DATA/db/fasta/2D7D.fasta,[3],[],"[661, 40]",False
+1GDT,../DATA/db/fasta/1GDT.fasta,"[22, 13, 21]",[],[183],False
+1OCT,../DATA/db/fasta/1OCT.fasta,"[15, 15]",[],[156],False
+1LE9,../DATA/db/fasta/1LE9.fasta,"[12, 12]",[],"[274, 313]",False
+1FJX,../DATA/db/fasta/1FJX.fasta,[13],[],[327],False
+1MJM,../DATA/db/fasta/1MJM.fasta,[10],[],[104],True
+1MNV,../DATA/db/fasta/1MNV.fasta,[9],[],[11],False
+2F5N,../DATA/db/fasta/2F5N.fasta,"[16, 16]",[],[274],False
+1PGZ,../DATA/db/fasta/1PGZ.fasta,[],[],"[12, 195]",False
+1HUZ,../DATA/db/fasta/1HUZ.fasta,"[11, 8]",[],[335],False
+1ZTW,../DATA/db/fasta/1ZTW.fasta,"[8, 8]",[],[255],True
+1JH9,../DATA/db/fasta/1JH9.fasta,[17],[],[340],False
+1WTW,../DATA/db/fasta/1WTW.fasta,[8],[],[66],True
+1LAU,../DATA/db/fasta/1LAU.fasta,[3],[],[244],False
+1BPZ,../DATA/db/fasta/1BPZ.fasta,"[16, 11, 5]",[],[335],False
+1WD0,../DATA/db/fasta/1WD0.fasta,[10],[],[66],True
+1T39,../DATA/db/fasta/1T39.fasta,"[13, 13]",[],[188],False
+1CL8,../DATA/db/fasta/1CL8.fasta,[13],[],[276],False
+1P3L,../DATA/db/fasta/1P3L.fasta,[146],[],"[135, 102, 129, 125]",True
+1TF6,../DATA/db/fasta/1TF6.fasta,"[31, 31]",[],[190],False
+2BCS,../DATA/db/fasta/2BCS.fasta,"[4, 7, 12]",[],[335],False
+2ATL,../DATA/db/fasta/2ATL.fasta,"[13, 19]",[],[360],False
+2C7Q,../DATA/db/fasta/2C7Q.fasta,"[13, 13]",[],[327],False
+1HF0,../DATA/db/fasta/1HF0.fasta,"[22, 22]",[],[159],True
+1YTB,../DATA/db/fasta/1YTB.fasta,[29],[],[180],False
+1WBD,../DATA/db/fasta/1WBD.fasta,"[18, 17]",[],[800],False
+1P3A,../DATA/db/fasta/1P3A.fasta,[146],[],"[135, 102, 129, 125]",True
+1GJI,../DATA/db/fasta/1GJI.fasta,"[20, 20]",[],[275],True
+1XSD,../DATA/db/fasta/1XSD.fasta,[16],[],[126],True
+2D7H,../DATA/db/fasta/2D7H.fasta,[3],[],[105],False
+1LWW,../DATA/db/fasta/1LWW.fasta,[15],[],"[15, 324]",False
+1SFO,../DATA/db/fasta/1SFO.fasta,[14],[10],"[70, 120, 70, 1733, 1224, 318, 215, 155, 146, 122]",False
+1P59,../DATA/db/fasta/1P59.fasta,[],"[11, 11]",[226],False
+1CDW,../DATA/db/fasta/1CDW.fasta,"[16, 16]",[],[179],True
+2DWN,../DATA/db/fasta/2DWN.fasta,[2],[],[105],False
+1RZ9,../DATA/db/fasta/1RZ9.fasta,"[26, 26]",[],[197],True
+2DPI,../DATA/db/fasta/2DPI.fasta,"[7, 9]",[],[420],False
+1QNE,../DATA/db/fasta/1QNE.fasta,"[14, 14]",[],[200],True
+1QTM,../DATA/db/fasta/1QTM.fasta,"[12, 14]",[],[539],False
+1OWF,../DATA/db/fasta/1OWF.fasta,"[35, 15, 20]",[],"[99, 94]",False
+1G4D,../DATA/db/fasta/1G4D.fasta,"[16, 16]",[],[69],True
+1K78,../DATA/db/fasta/1K78.fasta,"[27, 27]",[],"[149, 110]",False
+1ZQP,../DATA/db/fasta/1ZQP.fasta,"[8, 7]",[],[335],False
+1RUO,../DATA/db/fasta/1RUO.fasta,"[14, 17]",[],[209],False
+1LWS,../DATA/db/fasta/1LWS.fasta,"[37, 37]",[],[454],False
+1YQM,../DATA/db/fasta/1YQM.fasta,"[13, 12]",[],[319],False
+1YQR,../DATA/db/fasta/1YQR.fasta,"[14, 14]",[],[319],True
+1N3E,../DATA/db/fasta/1N3E.fasta,"[14, 10]",[],[163],False
+1RTD,../DATA/db/fasta/1RTD.fasta,"[21, 27]",[],"[554, 440]",False
+2F03,../DATA/db/fasta/2F03.fasta,"[21, 21]",[],[269],True
+1V15,../DATA/db/fasta/1V15.fasta,[8],[],[134],True
+1OZJ,../DATA/db/fasta/1OZJ.fasta,"[15, 15]",[],[144],True
+2F5Q,../DATA/db/fasta/2F5Q.fasta,"[16, 16]",[],[274],False
+1R9S,../DATA/db/fasta/1R9S.fasta,[14],[10],"[70, 120, 70, 1733, 1224, 318, 215, 155, 146, 122]",False
+1U1P,../DATA/db/fasta/1U1P.fasta,[12],[],[196],False
+1X9N,../DATA/db/fasta/1X9N.fasta,"[13, 15, 28]",[],[688],False
+2DNJ,../DATA/db/fasta/2DNJ.fasta,"[8, 6]",[],[260],False
+1Z1B,../DATA/db/fasta/1Z1B.fasta,"[14, 18, 29, 26, 26]",[],[356],False
+2EVG,../DATA/db/fasta/2EVG.fasta,"[14, 14]",[],[345],False
+2CRX,../DATA/db/fasta/2CRX.fasta,[35],[],[343],False
+1UBD,../DATA/db/fasta/1UBD.fasta,"[20, 20]",[],[124],True
+1ZQT,../DATA/db/fasta/1ZQT.fasta,"[8, 7]",[],[335],False
+1MUS,../DATA/db/fasta/1MUS.fasta,"[20, 20]",[],[477],True
+2C7O,../DATA/db/fasta/2C7O.fasta,"[13, 13]",[],[327],False
+1CA5,../DATA/db/fasta/1CA5.fasta,[8],[],[66],True
+2B0E,../DATA/db/fasta/2B0E.fasta,[],[11],[245],True
+1K3W,../DATA/db/fasta/1K3W.fasta,[13],[],"[13, 262]",False
+1RV5,../DATA/db/fasta/1RV5.fasta,[11],[],[244],False
+1LWV,../DATA/db/fasta/1LWV.fasta,[15],[],"[15, 324]",False
+1KFS,../DATA/db/fasta/1KFS.fasta,[7],[],[605],False
+1P3G,../DATA/db/fasta/1P3G.fasta,[146],[],"[135, 102, 129, 125]",True
+1SKN,../DATA/db/fasta/1SKN.fasta,"[15, 15]",[],[92],False
+1F5E,../DATA/db/fasta/1F5E.fasta,"[10, 10]",[],[65],True
+1MM8,../DATA/db/fasta/1MM8.fasta,"[20, 20]",[],[481],True
+1W7A,../DATA/db/fasta/1W7A.fasta,"[30, 30]",[],[800],False
+1RRC,../DATA/db/fasta/1RRC.fasta,[3],[],[301],False
+1OMH,../DATA/db/fasta/1OMH.fasta,[25],[],[293],False
+1DRG,../DATA/db/fasta/1DRG.fasta,"[16, 19]",[],[323],False
+1KB4,../DATA/db/fasta/1KB4.fasta,"[18, 18]",[],[110],True
+1V14,../DATA/db/fasta/1V14.fasta,[8],[],[134],True
+1R2Z,../DATA/db/fasta/1R2Z.fasta,[12],[12],[274],False
+2AYG,../DATA/db/fasta/2AYG.fasta,[18],[],[87],True
+1CGP,../DATA/db/fasta/1CGP.fasta,"[18, 13]",[],[205],False
+1VTO,../DATA/db/fasta/1VTO.fasta,"[14, 14]",[],[190],True
+1C8C,../DATA/db/fasta/1C8C.fasta,[8],[],[64],False
+1NNE,../DATA/db/fasta/1NNE.fasta,"[23, 22]",[],[765],False
+1DFM,../DATA/db/fasta/1DFM.fasta,[16],[],[223],False
+1QPZ,../DATA/db/fasta/1QPZ.fasta,[17],[],[340],False
+1HVN,../DATA/db/fasta/1HVN.fasta,[5],[],[18],False
+1EOP,../DATA/db/fasta/1EOP.fasta,[12],[],[245],False
+1ZQI,../DATA/db/fasta/1ZQI.fasta,"[8, 7]",[],[335],False
+1QNB,../DATA/db/fasta/1QNB.fasta,"[14, 14]",[],[200],True
+1T7P,../DATA/db/fasta/1T7P.fasta,"[11, 13]",[],"[698, 108]",False
+1D5Y,../DATA/db/fasta/1D5Y.fasta,"[21, 21]",[],[292],False
+1NJX,../DATA/db/fasta/1NJX.fasta,"[11, 15]",[],[580],False
+1RTA,../DATA/db/fasta/1RTA.fasta,[4],[],[124],False
+1RXV,../DATA/db/fasta/1RXV.fasta,[9],[],[336],False
+1U4B,../DATA/db/fasta/1U4B.fasta,"[13, 15]",[],[580],False
+1B69,../DATA/db/fasta/1B69.fasta,"[13, 13]",[],[69],True
+1GCC,../DATA/db/fasta/1GCC.fasta,"[11, 11]",[],[63],True
+1B96,../DATA/db/fasta/1B96.fasta,[11],[],[244],False
+1BY4,../DATA/db/fasta/1BY4.fasta,"[16, 15]",[],[82],False
+1C7Y,../DATA/db/fasta/1C7Y.fasta,"[13, 12, 13, 12, 13, 12, 13, 12]",[],[203],False
+1TKD,../DATA/db/fasta/1TKD.fasta,"[22, 26]",[],"[698, 108]",False
+1P3I,../DATA/db/fasta/1P3I.fasta,[146],[],"[135, 102, 129, 125]",True
+2ADW,../DATA/db/fasta/2ADW.fasta,[8],[],[8],True
+1EFA,../DATA/db/fasta/1EFA.fasta,[21],[],[333],False
+1D3U,../DATA/db/fasta/1D3U.fasta,"[24, 23]",[],"[181, 201]",False
+1QPI,../DATA/db/fasta/1QPI.fasta,"[15, 15]",[],[203],True
+1WTE,../DATA/db/fasta/1WTE.fasta,"[13, 13]",[],[272],True
+1PVP,../DATA/db/fasta/1PVP.fasta,"[34, 34]",[],[349],True
+1J4W,../DATA/db/fasta/1J4W.fasta,[29],[],[174],False
+1RH0,../DATA/db/fasta/1RH0.fasta,[3],[],[485],False
+1PT3,../DATA/db/fasta/1PT3.fasta,[8],[],[128],True
+1P47,../DATA/db/fasta/1P47.fasta,"[22, 22]",[],[87],False
+1XI1,../DATA/db/fasta/1XI1.fasta,[5],[],[575],False
+1SFU,../DATA/db/fasta/1SFU.fasta,[7],[],[75],False
+1MJ2,../DATA/db/fasta/1MJ2.fasta,[19],[],[104],False
+1L3V,../DATA/db/fasta/1L3V.fasta,"[15, 16]",[],[580],False
+1KIX,../DATA/db/fasta/1KIX.fasta,[8],[],[495],False
+1ZQE,../DATA/db/fasta/1ZQE.fasta,"[8, 7]",[],[335],False
+1PH9,../DATA/db/fasta/1PH9.fasta,"[13, 12]",[],"[460, 216]",False
+1LPQ,../DATA/db/fasta/1LPQ.fasta,"[22, 22]",[],[564],True
+1VTN,../DATA/db/fasta/1VTN.fasta,"[13, 13]",[],[102],True
+1JFS,../DATA/db/fasta/1JFS.fasta,[17],[],[340],False
+1MTL,../DATA/db/fasta/1MTL.fasta,[],[],"[12, 168]",False
+1LO1,../DATA/db/fasta/1LO1.fasta,"[13, 13]",[],[98],True
+1YUI,../DATA/db/fasta/1YUI.fasta,"[11, 11]",[],[54],True
+1L2C,../DATA/db/fasta/1L2C.fasta,[16],[],"[16, 274]",False
+1REP,../DATA/db/fasta/1REP.fasta,"[22, 22]",[],[251],False
+1T8I,../DATA/db/fasta/1T8I.fasta,"[22, 10, 12]",[],[592],False
+1L3T,../DATA/db/fasta/1L3T.fasta,"[10, 16]",[],[580],False
+1PFI,../DATA/db/fasta/1PFI.fasta,[1],[],[46],False
+2C28,../DATA/db/fasta/2C28.fasta,"[13, 18]",[],[358],False
+2FDC,../DATA/db/fasta/2FDC.fasta,[20],[],[658],False
+1UA0,../DATA/db/fasta/1UA0.fasta,"[10, 14]",[],[580],False
+1P3K,../DATA/db/fasta/1P3K.fasta,[146],[],"[135, 102, 129, 125]",True
+1RR8,../DATA/db/fasta/1RR8.fasta,"[22, 22]",[],[565],True
+1NK5,../DATA/db/fasta/1NK5.fasta,"[15, 16]",[],[580],False
+1M3H,../DATA/db/fasta/1M3H.fasta,"[15, 7]",[],"[8, 317]",False
+1C9B,../DATA/db/fasta/1C9B.fasta,"[18, 18]",[],"[207, 180]",False
+1A0A,../DATA/db/fasta/1A0A.fasta,"[17, 17]",[],[63],True
+1ZQL,../DATA/db/fasta/1ZQL.fasta,"[8, 7]",[],[335],False
+1U0C,../DATA/db/fasta/1U0C.fasta,"[24, 24]",[],[163],True
+1NLW,../DATA/db/fasta/1NLW.fasta,[18],[],"[80, 76]",True
+1RCN,../DATA/db/fasta/1RCN.fasta,[4],[],[124],False
+1OSL,../DATA/db/fasta/1OSL.fasta,[18],[],[62],True
+1OTC,../DATA/db/fasta/1OTC.fasta,[12],[],"[495, 260]",False
+1D02,../DATA/db/fasta/1D02.fasta,[10],[],[202],True
+1UNJ,../DATA/db/fasta/1UNJ.fasta,[],[6],[11],True
+1M18,../DATA/db/fasta/1M18.fasta,[146],[],"[135, 102, 129, 125]",True
+1RVC,../DATA/db/fasta/1RVC.fasta,"[6, 5]",[],[244],False
+1RNB,../DATA/db/fasta/1RNB.fasta,[2],[],[110],True
+1Q3V,../DATA/db/fasta/1Q3V.fasta,"[21, 37]",[16],[347],False
+2BCV,../DATA/db/fasta/2BCV.fasta,"[4, 12]",[],"[6, 335]",False
+2D7G,../DATA/db/fasta/2D7G.fasta,[2],[],[105],False
+1N3C,../DATA/db/fasta/1N3C.fasta,"[15, 15]",[],[317],True
+1HYS,../DATA/db/fasta/1HYS.fasta,[22],[23],"[425, 553, 214, 220]",False
+2C5R,../DATA/db/fasta/2C5R.fasta,"[8, 8]",[],[67],True
+2EZF,../DATA/db/fasta/2EZF.fasta,"[12, 12]",[],[10],True
+1ZBI,../DATA/db/fasta/1ZBI.fasta,[12],[12],[142],False
+1HCR,../DATA/db/fasta/1HCR.fasta,"[14, 13]",[],[52],False
+1RYS,../DATA/db/fasta/1RYS.fasta,"[13, 18]",[],[352],False
+1RAM,../DATA/db/fasta/1RAM.fasta,[20],[],[273],True
+1TF3,../DATA/db/fasta/1TF3.fasta,"[15, 15]",[],[92],True
+2ASJ,../DATA/db/fasta/2ASJ.fasta,"[13, 19]",[],[360],False
+1L5U,../DATA/db/fasta/1L5U.fasta,"[12, 16]",[],[580],False
+1ZQB,../DATA/db/fasta/1ZQB.fasta,"[8, 7]",[],[335],False
+1TEZ,../DATA/db/fasta/1TEZ.fasta,"[11, 9, 4, 5]",[],[474],False
+1ZQJ,../DATA/db/fasta/1ZQJ.fasta,"[8, 7]",[],[335],False
+1XVR,../DATA/db/fasta/1XVR.fasta,[6],[],[8],True
+1AZP,../DATA/db/fasta/1AZP.fasta,[8],[],[66],True
+1IPP,../DATA/db/fasta/1IPP.fasta,[21],[],[163],False
+1KU7,../DATA/db/fasta/1KU7.fasta,"[11, 11]",[],[73],False
+173D,../DATA/db/fasta/173D.fasta,[8],[],[11],True
+2BAM,../DATA/db/fasta/2BAM.fasta,[12],[],[213],True
+1Y77,../DATA/db/fasta/1Y77.fasta,"[19, 7, 10]",[],"[171, 146, 122, 70, 120, 70, 1733, 1224, 318, 221, 215, 155]",True
+1EO4,../DATA/db/fasta/1EO4.fasta,[11],[],[245],False
+1KX4,../DATA/db/fasta/1KX4.fasta,[146],[],"[135, 102, 128, 125]",True
+1TDZ,../DATA/db/fasta/1TDZ.fasta,"[14, 14]",[],[272],False
+1M6X,../DATA/db/fasta/1M6X.fasta,"[13, 20, 33]",[],"[423, 423]",False
+1HDD,../DATA/db/fasta/1HDD.fasta,"[21, 21]",[],[61],False
+1BDT,../DATA/db/fasta/1BDT.fasta,"[22, 22]",[],[53],False
+2CDM,../DATA/db/fasta/2CDM.fasta,[27],[],[293],False
+1CKQ,../DATA/db/fasta/1CKQ.fasta,[13],[],[276],False
+1N48,../DATA/db/fasta/1N48.fasta,[13],[],"[16, 352]",False
+2C7A,../DATA/db/fasta/2C7A.fasta,"[18, 18]",[],[78],False
+1ZQC,../DATA/db/fasta/1ZQC.fasta,"[8, 7]",[],[335],False
+1TV9,../DATA/db/fasta/1TV9.fasta,"[16, 11, 5]",[],[335],False
+1J47,../DATA/db/fasta/1J47.fasta,"[14, 14]",[],[85],True
+1PNR,../DATA/db/fasta/1PNR.fasta,[17],[],[340],False
+1MJO,../DATA/db/fasta/1MJO.fasta,[19],[],[104],False
+1EYU,../DATA/db/fasta/1EYU.fasta,[13],[],[157],False
+2BOP,../DATA/db/fasta/2BOP.fasta,[17],[],[85],False
+1XHZ,../DATA/db/fasta/1XHZ.fasta,[5],[],[575],False
+1OH8,../DATA/db/fasta/1OH8.fasta,"[30, 31]",[],[800],False
+1Z19,../DATA/db/fasta/1Z19.fasta,"[16, 20, 33]",[],[283],False
+2BR0,../DATA/db/fasta/2BR0.fasta,[13],[],"[358, 18]",False
+1K4S,../DATA/db/fasta/1K4S.fasta,[],"[22, 10, 12]",[592],False
+1X0F,../DATA/db/fasta/1X0F.fasta,[4],[],[79],False
+1QZG,../DATA/db/fasta/1QZG.fasta,[5],[],[187],False
+1RRQ,../DATA/db/fasta/1RRQ.fasta,"[11, 11]",[],[369],False
+1PP7,../DATA/db/fasta/1PP7.fasta,"[13, 13]",[],[131],False
+1QN3,../DATA/db/fasta/1QN3.fasta,"[14, 14]",[],[200],True
+1P5W,../DATA/db/fasta/1P5W.fasta,[],[],"[11, 548]",True
+2BJC,../DATA/db/fasta/2BJC.fasta,[22],[],[62],True
+1XYI,../DATA/db/fasta/1XYI.fasta,[8],[],[66],True
+1RPZ,../DATA/db/fasta/1RPZ.fasta,[5],[],[301],False
+1ZAY,../DATA/db/fasta/1ZAY.fasta,[17],[],[340],False
+2A6O,../DATA/db/fasta/2A6O.fasta,[22],[],[155],False
+1GXP,../DATA/db/fasta/1GXP.fasta,"[23, 23]",[],[106],False
+1UA1,../DATA/db/fasta/1UA1.fasta,"[11, 14]",[],[580],False
+1PZU,../DATA/db/fasta/1PZU.fasta,"[14, 14]",[],[301],False
+1J75,../DATA/db/fasta/1J75.fasta,[7],[],[67],False
+1P3F,../DATA/db/fasta/1P3F.fasta,[146],[],"[135, 102, 129, 125]",True
+1VRL,../DATA/db/fasta/1VRL.fasta,[11],[],"[11, 369]",False
+1NJZ,../DATA/db/fasta/1NJZ.fasta,"[10, 16]",[],[580],False
+1KEG,../DATA/db/fasta/1KEG.fasta,[4],[],"[216, 220]",False
+1J5N,../DATA/db/fasta/1J5N.fasta,"[15, 15]",[],[93],True
+1ZJN,../DATA/db/fasta/1ZJN.fasta,"[16, 10, 5]",[],[335],True
+1YQK,../DATA/db/fasta/1YQK.fasta,"[11, 9]",[],[319],False
+1BUA,../DATA/db/fasta/1BUA.fasta,[],[],"[11, 244]",False
+1DUX,../DATA/db/fasta/1DUX.fasta,"[13, 13]",[],[94],True
+2E43,../DATA/db/fasta/2E43.fasta,"[16, 16]",[],[78],False
+1P4E,../DATA/db/fasta/1P4E.fasta,"[13, 20, 33]",[],"[429, 429]",False
+1L3U,../DATA/db/fasta/1L3U.fasta,"[11, 16]",[],[580],False
+1BHM,../DATA/db/fasta/1BHM.fasta,[12],[],[213],True
+1PHJ,../DATA/db/fasta/1PHJ.fasta,[13],[],"[12, 461, 216]",False
+1PO6,../DATA/db/fasta/1PO6.fasta,[],[],"[11, 183]",False
+1BDH,../DATA/db/fasta/1BDH.fasta,[17],[],[340],False
+1LFU,../DATA/db/fasta/1LFU.fasta,"[14, 14]",[],[82],True
+1NGM,../DATA/db/fasta/1NGM.fasta,"[19, 19]",[],"[180, 72]",True
+1M06,../DATA/db/fasta/1M06.fasta,[],[],"[431, 187, 24, 10]",True
+1MSW,../DATA/db/fasta/1MSW.fasta,"[20, 17, 10]",[],[883],True
+1M5X,../DATA/db/fasta/1M5X.fasta,"[24, 24]",[],[170],True
+1EO3,../DATA/db/fasta/1EO3.fasta,[11],[],[245],False
+1JB7,../DATA/db/fasta/1JB7.fasta,[12],[],"[495, 260]",False
+1RG2,../DATA/db/fasta/1RG2.fasta,[4],[],[485],False
+1VTG,../DATA/db/fasta/1VTG.fasta,[6],[],[8],True
+1L9Z,../DATA/db/fasta/1L9Z.fasta,"[35, 30]",[],"[314, 1118, 1524, 99, 438]",False
+2DWM,../DATA/db/fasta/2DWM.fasta,[2],[],[105],True
+1U48,../DATA/db/fasta/1U48.fasta,"[12, 15]",[],[580],False
+1T2T,../DATA/db/fasta/1T2T.fasta,"[21, 21]",[],[116],False
+1JK2,../DATA/db/fasta/1JK2.fasta,"[11, 11]",[],[90],False
+1QLN,../DATA/db/fasta/1QLN.fasta,"[17, 3, 22]",[],[883],False
+1VOL,../DATA/db/fasta/1VOL.fasta,"[16, 16]",[],"[204, 200]",True
+1YFH,../DATA/db/fasta/1YFH.fasta,"[16, 16]",[],[179],False
+1XVK,../DATA/db/fasta/1XVK.fasta,[8],[],[8],True
+2EVF,../DATA/db/fasta/2EVF.fasta,"[14, 14]",[],[345],False
+1T38,../DATA/db/fasta/1T38.fasta,"[13, 13]",[],[188],True
+1ZQD,../DATA/db/fasta/1ZQD.fasta,"[8, 7]",[],[335],False
+1BNK,../DATA/db/fasta/1BNK.fasta,[13],[],"[13, 216]",False
+1IHF,../DATA/db/fasta/1IHF.fasta,"[35, 15, 20]",[],"[99, 94]",False
+1JT0,../DATA/db/fasta/1JT0.fasta,[28],[],[194],True
+1A73,../DATA/db/fasta/1A73.fasta,"[13, 8]",[],[163],False
+1BDV,../DATA/db/fasta/1BDV.fasta,"[22, 22]",[],[53],False
+2ASL,../DATA/db/fasta/2ASL.fasta,"[14, 19]",[],[360],False
+1K3X,../DATA/db/fasta/1K3X.fasta,[],[13],"[13, 262]",False
+1B72,../DATA/db/fasta/1B72.fasta,"[20, 20]",[],"[97, 87]",False
+2FCC,../DATA/db/fasta/2FCC.fasta,[],[13],"[13, 137]",False
+1S97,../DATA/db/fasta/1S97.fasta,"[13, 18]",[],[352],False
+1VRR,../DATA/db/fasta/1VRR.fasta,[14],[],[203],True
+1ZRC,../DATA/db/fasta/1ZRC.fasta,"[17, 21]",[],[209],False
+1SSP,../DATA/db/fasta/1SSP.fasta,[11],[],"[10, 223]",False
+1MQ2,../DATA/db/fasta/1MQ2.fasta,"[16, 10, 5]",[],[335],False
+1EA4,../DATA/db/fasta/1EA4.fasta,"[22, 22]",[],[45],False
+1CEZ,../DATA/db/fasta/1CEZ.fasta,"[17, 15]",[],[883],False
+2BCU,../DATA/db/fasta/2BCU.fasta,"[4, 7, 12]",[],[335],False
+1I7D,../DATA/db/fasta/1I7D.fasta,[8],[],[659],False
+1U1M,../DATA/db/fasta/1U1M.fasta,[11],[],[196],False
+2FDF,../DATA/db/fasta/2FDF.fasta,[3],[],[211],False
+1PH5,../DATA/db/fasta/1PH5.fasta,[13],[],"[11, 459, 216]",False
+1ZRD,../DATA/db/fasta/1ZRD.fasta,"[17, 21]",[],[209],False
+1PAR,../DATA/db/fasta/1PAR.fasta,"[22, 22]",[],[53],False
+1FOK,../DATA/db/fasta/1FOK.fasta,"[20, 20]",[],[576],False
+1P3M,../DATA/db/fasta/1P3M.fasta,[146],[],"[135, 102, 129, 125]",True
+1EHL,../DATA/db/fasta/1EHL.fasta,[2],[],"[217, 219]",False
+1NKB,../DATA/db/fasta/1NKB.fasta,"[13, 15]",[],[580],False
+1ZZI,../DATA/db/fasta/1ZZI.fasta,[6],[],[82],False
+2EX5,../DATA/db/fasta/2EX5.fasta,"[26, 26]",[],[207],True
+1SX5,../DATA/db/fasta/1SX5.fasta,"[6, 5]",[],[244],False
+1XNS,../DATA/db/fasta/1XNS.fasta,"[34, 35]",[],[324],False
+1R49,../DATA/db/fasta/1R49.fasta,"[22, 22]",[],[592],True
+1Y8Z,../DATA/db/fasta/1Y8Z.fasta,[9],[13],[402],False
+2F8N,../DATA/db/fasta/2F8N.fasta,[146],[],"[136, 103, 126, 123, 120, 149]",True
+2BPA,../DATA/db/fasta/2BPA.fasta,[5],[],"[426, 37, 175]",False
+1PH3,../DATA/db/fasta/1PH3.fasta,"[13, 12]",[],"[460, 216]",False
+1MJQ,../DATA/db/fasta/1MJQ.fasta,[19],[],[104],False
+1RRS,../DATA/db/fasta/1RRS.fasta,[11],[],"[11, 369]",False
+1EMJ,../DATA/db/fasta/1EMJ.fasta,[10],[],"[9, 223]",False
+1G3X,../DATA/db/fasta/1G3X.fasta,[12],[],[5],True
+1O3Q,../DATA/db/fasta/1O3Q.fasta,"[11, 15]",[],[200],False
+1A1J,../DATA/db/fasta/1A1J.fasta,"[11, 11]",[],[90],False
+1FW6,../DATA/db/fasta/1FW6.fasta,"[23, 22]",[],[768],False
+1P3P,../DATA/db/fasta/1P3P.fasta,[146],[],"[135, 102, 129, 125]",True
+1HU0,../DATA/db/fasta/1HU0.fasta,[15],[],"[15, 324]",False
+1OSB,../DATA/db/fasta/1OSB.fasta,[25],[],[293],False
+2CV5,../DATA/db/fasta/2CV5.fasta,[146],[],"[136, 103, 130, 126]",True
+1RZR,../DATA/db/fasta/1RZR.fasta,"[16, 16]",[],"[332, 332, 88]",True
+1P3B,../DATA/db/fasta/1P3B.fasta,[146],[],"[135, 102, 125, 129]",True
+2ATA,../DATA/db/fasta/2ATA.fasta,[12],[],[200],True
+2EUW,../DATA/db/fasta/2EUW.fasta,"[14, 14]",[],[345],False
+1XHV,../DATA/db/fasta/1XHV.fasta,"[7, 6]",[],[257],False
+1ZLK,../DATA/db/fasta/1ZLK.fasta,"[43, 43]",[],[95],False
+2C62,../DATA/db/fasta/2C62.fasta,[20],[],[66],False
+1LAT,../DATA/db/fasta/1LAT.fasta,[19],[],[82],False
+1RG1,../DATA/db/fasta/1RG1.fasta,[4],[],[485],False
+1A1H,../DATA/db/fasta/1A1H.fasta,"[11, 11]",[],[90],False
+1ZX4,../DATA/db/fasta/1ZX4.fasta,"[25, 25]",[],[192],True
+1HLO,../DATA/db/fasta/1HLO.fasta,"[11, 11]",[],[80],True
+1U45,../DATA/db/fasta/1U45.fasta,"[10, 15]",[],[580],False
+1VTL,../DATA/db/fasta/1VTL.fasta,"[14, 14]",[],[186],True
+1O3R,../DATA/db/fasta/1O3R.fasta,"[11, 15]",[],[200],False
+1HLZ,../DATA/db/fasta/1HLZ.fasta,"[20, 20]",[],[94],True
+1NH2,../DATA/db/fasta/1NH2.fasta,[16],[16],"[180, 53, 79, 121]",False
+1LWT,../DATA/db/fasta/1LWT.fasta,"[37, 37]",[],[454],False
+1TUP,../DATA/db/fasta/1TUP.fasta,"[21, 21]",[],[219],False
+1M07,../DATA/db/fasta/1M07.fasta,[4],[],[111],False
+1NVP,../DATA/db/fasta/1NVP.fasta,"[17, 17]",[],"[181, 57, 76, 108]",True
+1U47,../DATA/db/fasta/1U47.fasta,"[11, 15]",[],[580],False
+1CRX,../DATA/db/fasta/1CRX.fasta,"[15, 19, 15]",[],[322],False
+1U3E,../DATA/db/fasta/1U3E.fasta,"[36, 21, 15]",[],[174],False
+1ZQN,../DATA/db/fasta/1ZQN.fasta,"[8, 7]",[],[335],False
+1TVA,../DATA/db/fasta/1TVA.fasta,"[16, 11, 5]",[],[335],False
+2AHI,../DATA/db/fasta/2AHI.fasta,[12],[],[200],True
+1QRH,../DATA/db/fasta/1QRH.fasta,[13],[],[261],False
+1OH5,../DATA/db/fasta/1OH5.fasta,"[30, 30]",[],[800],False
+1TRO,../DATA/db/fasta/1TRO.fasta,[19],[],[108],False
+2DEM,../DATA/db/fasta/2DEM.fasta,[14],[],"[15, 219]",False
+1KSX,../DATA/db/fasta/1KSX.fasta,[21],[],[148],False
+1R2Y,../DATA/db/fasta/1R2Y.fasta,"[12, 12]",[],[274],True
+1NJW,../DATA/db/fasta/1NJW.fasta,"[11, 15]",[],[580],False
+1YRN,../DATA/db/fasta/1YRN.fasta,"[21, 21]",[],"[83, 61]",False
+1JFI,../DATA/db/fasta/1JFI.fasta,"[19, 19]",[],"[98, 179, 185]",True
+1KB6,../DATA/db/fasta/1KB6.fasta,"[18, 18]",[],[110],True
+2BSQ,../DATA/db/fasta/2BSQ.fasta,[],"[36, 36]","[146, 77]",True
+1ZQR,../DATA/db/fasta/1ZQR.fasta,"[8, 7]",[],[335],False
+1ZM5,../DATA/db/fasta/1ZM5.fasta,[25],[],[293],False
+1TW8,../DATA/db/fasta/1TW8.fasta,[13],[],[257],False
+1WD1,../DATA/db/fasta/1WD1.fasta,[10],[],[66],True
+1HUT,../DATA/db/fasta/1HUT.fasta,[15],[],"[36, 259]",False
+1O4X,../DATA/db/fasta/1O4X.fasta,"[19, 19]",[],"[167, 88]",True
+1TGH,../DATA/db/fasta/1TGH.fasta,[12],[],[185],True
+1VKX,../DATA/db/fasta/1VKX.fasta,"[12, 12]",[],"[273, 312]",False

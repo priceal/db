@@ -22,15 +22,16 @@ list of PDB ids.
 """
 
 import requests
-import json
 import pandas as pd
-from itertools import batched
 import os
 
 # define script variables
-pdbCodeFile = './summary.csv'              # file containing pdb ids
+# inputs
+pdbCodeFile = './csv/summary.csv'              # file containing pdb ids
+
+#outputs
 fastaDirectory = '../DATA/db/fasta'            # directory to contain fasta files
-maxNumber = 20      # maximum number to download (limit to first maxNumber ids)
+maxNumber = 10000      # maximum number to download (limit to first maxNumber ids)
 
 ###############################################################################
 # load in pdb ids

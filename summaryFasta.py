@@ -5,29 +5,28 @@ Created on Thu Feb 20 10:40:36 2025
 
 @author: allen
 
-database:   Protein Data Bank 
-            https://files.rcsb.org
+analyzes the fasta files in a given directory. creates a dataframe with pdbid,
+path and columns for lengths of dna and proteins. Can be used for length 
+filtering.
 
-Downloads sequence files for a list of PDB ids. The sequence data
-is the fasta file from PDB--containing the sequence of the crystallized
-entity in the case of x-ray strutures, with sequences of all polymer entities.
-
-N.B. This sequence will contain all residues, even those not observed in
-experimental structure.
-
-List of PDB ids can be either a .csv with a column header 'pdbid', created 
-by downloadPDBeSummary.py for example. Or it can be a white space separated
-list of PDB ids.
+COLUMN          DESCRIPTION
+dna             list of dna chain lengths
+protein         list of protein chain lengths
+U               list of chain lengths of chains containing 'U'
+duplex          if single dna chain is palindrome, or for two chains,
+                if one is reverse complement of the other
 
 """
 
-import pandas as pd
 import os
+import pandas as pd
 from Bio import SeqIO
 
+'''
 ###############################################################################
 #################### FUNCTIONS ################################################
 ###############################################################################
+'''
 def is_dna( seq ):
     '''
     
@@ -64,12 +63,18 @@ def is_protein( seq ):
             return False
     return True
 
+'''
 ###############################################################################
 #################### MAIN #####################################################
 ###############################################################################
-      
+'''
+
+# inputs    
 fastaDirectory = '../DATA/db/fasta'      # directory containing fasta files
-maxNumber = 20   # maximum number to process (limit to first maxNumber files)
+maxNumber = 1000   # maximum number to process (limit to first maxNumber files)
+
+# outputs
+outputFile = 'csv/fastaSummaries.csv'  # leave '' to not save
 
 ###############################################################################
 
@@ -84,7 +89,6 @@ dataDf = pd.DataFrame({'pdbid':pdbids,
                        'protein':[[]]*len(pdbids),
                        'duplex': [[]]*len(pdbids)}
                       )
-
     
 # loop through data frame and analyze entries
 for i in dataDf.index:
@@ -115,6 +119,7 @@ for i in dataDf.index:
         duplex= (entryDNAs[0].seq==entryDNAs[1].reverse_complement().seq)
     dataDf.at[i,'duplex'] = duplex
     
-        
+if outputFile:
+    dataDf.to_csv( outputFile, index=False )
     
     

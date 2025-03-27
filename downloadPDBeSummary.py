@@ -21,10 +21,13 @@ from itertools import batched
 import os
 
 # define script variables
-pdbCodeFile = './pdbListAll.txt'              # file containing pdb ids
-summaryFile = 'summary.csv'  # name of summary file to save, set to '' if not wanted
+# inputs
+pdbCodeFile = 'csv/pdbListAll.txt'              # file containing pdb ids
 batchSize = 100            # batch size for download (must be <1000)
 maxNumber = 1000      # maximum number to download (limit to first maxNumber ids)
+
+# outputs
+summaryFile = 'csv/summary.csv'  # name of summary file to save, set to '' if not wanted
 
 ###############################################################################
 # load in pdb ids
