@@ -3,40 +3,52 @@
 """
 Created on Mon Apr 14 10:58:44 2025
 
+loads all fasta files in a directory and sifts out the protein sequences.
+these are saved in a single file that can be read by other processing 
+tools such as mmseqs
+
+note: protein testing is imperfect, as is based on sequence letters.
+If the chain has at least one letter from the list of symbols that only
+code for amino acids (i.e., at least on that is not ACTGU), then it's
+classified protein
+
+better way --- analyze summary info from PDBe to determine exactly which 
+chains are protein.
+
+
 @author: allen
 """
 
 import os
 import random
 from Bio import SeqIO
-from Bio.PDB import is_aa
 
+# inputs
 fastaDirectory = '../DATA/db/fasta'
 sampleSize = 100
-logFile = 'prepFastaCluster_test_20250414.log'
 
+# outputs
+outputFile = 'temp2.fasta'
+logFile = 'prepFastaCluster_test_20250415.log'
 
-onlyAminoAcids = "RNDEQHILKMFPSWYV"
-
+'''
 ###############################################################################
+########################    functions   ##########################################
+###############################################################################
+'''
 def is_protein( chain ):
     '''
-    determines if at least 5 residues in chain are canonical AA residue types 
+    determines if at least 1 residue in chain is canonical AA residue types 
+    which does not code for a DNA/RNA base. Uses a set 'trick'
 
     Args:
-        chain (TYPE): DESCRIPTION.
+        chain (str): DESCRIPTION.
 
     Returns:
         bool: DESCRIPTION.
 
     '''
-    count = 0
-    for r in chain:
-        if r in onlyAminoAcids: count += 1
-            
-    return count > 1
-
-###############################################################################
+    return bool( set(chain).intersection( set('RDEQHILKMFPSWYV') ) )
 
 '''
 ###############################################################################
@@ -53,6 +65,7 @@ with open(logFile,'w') as f:
     # with all sequences and save.
     outputList= []
     for file in sampleList:
+        print(len(outputList),end=' ')
         read = SeqIO.parse(os.path.join(fastaDirectory,file), 'fasta' )
         f.write('-----file: '+file+'\n')
         for record in read:
@@ -63,4 +76,4 @@ with open(logFile,'w') as f:
                 f.write(f'    ....protein! count at {len(outputList)}\n')
 
 # now run mmseqs2
-SeqIO.write(outputList, "temp.fasta", "fasta")
+SeqIO.write(outputList, outputFile, "fasta")

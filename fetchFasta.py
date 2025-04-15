@@ -61,6 +61,7 @@ for code in pdbCodes:
     download = requests.get(url)
     with open( os.path.join(fastaDirectory,code+'.fasta'), 'w' ) as f:
         f.write( download.text )
+    print(code,end=' ')
 print('downloads completed.')
         
         
