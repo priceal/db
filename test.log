@@ -1,0 +1,72 @@
+********** file: 1qqb.fasta **********
+1QQB_1|Chain length = 17
+Seq('TACGCAATCGATTGCGT')
+1QQB_2|Chain length = 340
+Seq('ATIKDVAKRANVSTTTVSHVINKTRFVAEETRNAVWAAIKELHYSPSAVARSLA...YRR')    ....protein! count at 1
+********** file: 3ndh.fasta **********
+3NDH_1|Chains length = 225
+Seq('MGHHHHHHEFNIRDRMNDHLKDLFRDRLIIDKVQRRLPYMFQLAELESSRAGKV...SEG')    ....protein! count at 2
+3NDH_2|Chain length = 11
+Seq('GGTACGCGATG')
+3NDH_3|Chain length = 11
+Seq('CCATCGCGTAC')
+********** file: 6esf.fasta **********
+6ESF_1|Chains length = 135
+Seq('ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRY...ERA')    ....protein! count at 3
+6ESF_2|Chains length = 102
+Seq('SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEET...FGG')    ....protein! count at 4
+6ESF_3|Chains length = 129
+Seq('SGRGKQGGKTRAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAV...KSK')    ....protein! count at 5
+6ESF_4|Chains length = 122
+Seq('AKSAPAPKKGSKKAVTKTQKKDGKKRRKTRKESYAIYVYKVLKQVHPDTGISSK...SAK')    ....protein! count at 6
+6ESF_5|Chain length = 147
+Seq('ACAGGATGTATATATCTGACACGTGCCTGGAGACTAGGGAGTAATCCCCTTGGC...CAG')
+6ESF_6|Chain length = 147
+Seq('CTGGAGAATCCCGGTGCCGAGGCCGCTCAATTGGTCGTAGACAGCTCTAGCACC...TGT')
+********** file: 4dkj.fasta **********
+4DKJ_2|Chain length = 14
+Seq('CCACATGCGCTGAA')
+4DKJ_3|Chain length = 14
+Seq('GTTCAGCGCATGTG')
+4DKJ_1|Chain length = 403
+Seq('MNSNKDKIKVIKVFEAFAGIGSQFKALKNIARSKNWEIQHSGMVEWFVDAIVSY...HHH')    ....protein! count at 7
+********** file: 8jkq.fasta **********
+8JKQ_1|Chains length = 19
+Seq('CAACTGACACCGAGAAACC')
+8JKQ_2|Chains length = 19
+Seq('GGTTTCTCGGTGTCAGTTG')
+8JKQ_3|Chains length = 116
+Seq('GNGKLRQWLIDQIDSGKYPGLVWENEEKSIFRIPWKHAGKQDYNREEDAALFKA...KKG')    ....protein! count at 8
+********** file: 4csa.fasta **********
+4CSA_1|Chains length = 189
+Seq('GPMSRKAPCKYEVRGKCNRGSECKFNHNYWSWPDRYLLIRSNYLLNQLLRNTDR...QVQ')    ....protein! count at 9
+4CSA_2|Chain length = 189
+Seq('GPMSRKAPCKYEVRGKCNRGSECKFNHNYWSWPDRYLLIRSNYLLNQLLRDTDR...QVQ')    ....protein! count at 10
+4CSA_3|Chain length = 5
+Seq('AGTTA')
+********** file: 3ikt.fasta **********
+3IKT_1|Chains length = 207
+Seq('GMKVPEAAISRLITYLRILEELEAQGVHRTSSEQLGELAQVTAFQVRKDLSYFG...KWR')    ....protein! count at 11
+3IKT_2|Chains length = 22
+Seq('CGCTGTGAACGCGTTCACAGCG')
+********** file: 2xsd.fasta **********
+2XSD_2|Chain length = 11
+Seq('CCTCATGCATA')
+2XSD_1|Chain length = 11
+Seq('ATGCATGAGGA')
+2XSD_3|Chain length = 164
+Seq('GGEHSDEDAPSSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLYGNVFSQTTIC...GAG')    ....protein! count at 12
+********** file: 2jp9.fasta **********
+2JP9_1|Chain length = 17
+Seq('CGCGGGGGCGTCTGCGC')
+2JP9_2|Chain length = 17
+Seq('GCGCAGACGCCCCCGCG')
+2JP9_3|Chain length = 119
+Seq('ASEKRPFMCAYPGCNKRYFKLSHLQMHSRKHTGEKPYQCDFKDCERRFSRSDQL...NMH')    ....protein! count at 13
+********** file: 2o4a.fasta **********
+2O4A_1|Chain length = 12
+Seq('GCTAATATATGC')
+2O4A_2|Chain length = 12
+Seq('GCATATATTAGC')
+2O4A_3|Chain length = 93
+Seq('GSHMNTEVSSEIYQWVRDELKRAGISQAVFARVAFNRTQGLLSEILRKEEDPKT...KRK')    ....protein! count at 14

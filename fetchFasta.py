@@ -27,7 +27,7 @@ import os
 
 # define script variables
 # inputs
-pdbCodeFile = './csv/summary.csv'              # file containing pdb ids
+pdbCodeFile = './csv/filtered_20250402.csv'              # file containing pdb ids
 
 #outputs
 fastaDirectory = '../DATA/db/fasta'            # directory to contain fasta files
@@ -56,12 +56,15 @@ fasta files. Here, all are downloaded from the PDB.
 os.makedirs(fastaDirectory,exist_ok=True)
 print('downloading fasta files to', fastaDirectory)
 for code in pdbCodes:
-    # the fasta file - n.b. need upper case for these files!
-    url = 'https://www.rcsb.org/fasta/entry/' + code.upper()
-    download = requests.get(url)
-    with open( os.path.join(fastaDirectory,code+'.fasta'), 'w' ) as f:
-        f.write( download.text )
-    print(code,end=' ')
+    savePath = os.path.join(fastaDirectory,code.lower()+'.fasta')
+    if os.path.exists(savePath):
+        print('*'+code+'*',end=' ')
+    else:
+        url = 'https://www.rcsb.org/fasta/entry/' + code.upper()
+        download = requests.get(url)
+        with open( savePath, 'w' ) as f:
+            f.write( download.text )
+        print(code,end=' ')
 print('downloads completed.')
         
         

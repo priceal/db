@@ -9,12 +9,11 @@ tools such as mmseqs
 
 note: protein testing is imperfect, as is based on sequence letters.
 If the chain has at least one letter from the list of symbols that only
-code for amino acids (i.e., at least on that is not ACTGUN), then it's
+code for amino acids (i.e., at least on that is not ACTGUNI), then it's
 classified protein
 
 better way --- analyze summary info from PDBe to determine exactly which 
 chains are protein.
-
 
 @author: allen
 """
@@ -28,8 +27,8 @@ fastaDirectory = '../DATA/db/fasta'
 sampleSize = 0   # non-zero to choose a subsample of files
 
 # outputs
-outputFile = 'dbFasta1000.fasta'
-logFile = 'prepFastaCluster_dbFasta1000_20250416.log'
+outputFile = './fasta/db4687.fasta'
+logFile = './log/prepFasta_4687.log'
 
 '''
 ###############################################################################
@@ -48,7 +47,7 @@ def is_protein( chain ):
         bool: DESCRIPTION.
 
     '''
-    return bool( set(chain).intersection( set('RDEQHILKMFPSWYV') ) )
+    return bool( set(chain).intersection( set('RDEQHLKMFPSWYV') ) )
 
 '''
 ###############################################################################
@@ -70,16 +69,17 @@ with open(logFile,'w') as f:
     for file in sampleList:
         count+=1; print(count,end=' ')
         read = SeqIO.parse(os.path.join(fastaDirectory,file), 'fasta' )
-        f.write('\n-----file: '+file+'\n')
+        f.write('********** file: '+file+' **********\n')
         for record in read:
-            f.write(f'\n{record.id}\nlength = {len(record)}\n')    
+            f.write(f'{record.id} length = {len(record)}\n')    
             f.write(repr(record.seq))
             if is_protein( str(record.seq) ):
                 # terminate id at | -- simplifies id in clustering
                 record.id=record.id[:record.id.find('|') ]
                 outputList.append(record)
                 f.write(f'    ....protein! count at {len(outputList)}\n')
-                
+            else:
+                f.write('\n')
 
 # now run mmseqs2
 SeqIO.write(outputList, outputFile, "fasta")
