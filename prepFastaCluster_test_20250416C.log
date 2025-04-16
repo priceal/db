@@ -1,0 +1,1327 @@
+
+-----file: 1WTW.fasta
+
+1WTW_1|Chains
+length = 8
+Seq('GCGATCGC')
+1WTW_2|Chain
+length = 66
+Seq('MVKVKFKYKGEEKEVDTSKIKKVWRAGKMVSFTYDDNGKTGRGAVSEKDAPKEL...EKK')    ....protein! count at 1
+
+-----file: 1T8I.fasta
+
+1T8I_3|Chain
+length = 22
+Seq('AAAAATTTTTCCAAGTCTTTTT')
+1T8I_1|Chain
+length = 10
+Seq('AAAAAGACTT')
+1T8I_2|Chain
+length = 12
+Seq('GGAAAAATTTTT')
+1T8I_4|Chain
+length = 592
+Seq('KKPKNKDKDKKVPEPDNKKKKPKKEEEQKWKWWEEERYPEGIKWKFLEHKGPVF...YEF')    ....protein! count at 2
+
+-----file: 1ZZI.fasta
+
+1ZZI_1|Chains
+length = 6
+Seq('CTCCCC')
+1ZZI_2|Chains
+length = 82
+Seq('GAMGPIITTQVTIPKDLAGSIIGKGGQRIKQIRHESGASIKIDEPLEGSEDRII...KFF')    ....protein! count at 3
+
+-----file: 1AU7.fasta
+
+1AU7_1|Chain
+length = 25
+Seq('TCCTCATGTATATACATGAGGAAGG')
+1AU7_2|Chain
+length = 24
+Seq('CTTCCTCATGTATATACATGAGGA')
+1AU7_3|Chains
+length = 146
+Seq('GMRALEQFANEFKVRRIKLGYTQTNVGEALAAVHGSEFSQTTICRFENLQLSFK...RVK')    ....protein! count at 4
+
+-----file: 2EZV.fasta
+
+2EZV_1|Chain
+length = 21
+Seq('ATGTGGCCAACAAGGCCTATT')
+2EZV_2|Chain
+length = 21
+Seq('AATAGGCCTTGTTGGCCACAT')
+2EZV_3|Chains
+length = 269
+Seq('MHQDYRELSLDELESVEKQTLRTIVQALQQYSKEAKSIFETTAADSSGEVIVLA...LER')    ....protein! count at 5
+
+-----file: 1DGC.fasta
+
+1DGC_1|Chain
+length = 19
+Seq('TGGAGATGACGTCATCTCC')
+1DGC_2|Chain
+length = 62
+Seq('IVPESSDPAALKRARNTEAARRSRARKLQRMKQLEDKVEELLSKNYHLENEVAR...GER')    ....protein! count at 6
+
+-----file: 2F5N.fasta
+
+2F5N_1|Chain
+length = 16
+Seq('AGGTAGACCTGGACGC')
+2F5N_2|Chain
+length = 16
+Seq('TGCGTCCAGGTCTACC')
+2F5N_3|Chain
+length = 274
+Seq('MPELPEVETIRRTLLPLIVGKTIEDVRIFWPNIIRHPRDSEAFAARMIGQTVRG...CQR')    ....protein! count at 7
+
+-----file: 1G4D.fasta
+
+1G4D_2|Chain
+length = 16
+Seq('CAGATTACTGAAAAGG')
+1G4D_3|Chain
+length = 69
+Seq('KSIWCSPQEIMAADGMPGSVAGVHYRANVQGWTKRKKEGVKGGKAVEYDVMSMP...LST')    ....protein! count at 8
+
+1G4D_1|Chain
+length = 16
+Seq('CCTTTTCAGTAATCTG')
+-----file: 1U35.fasta
+
+1U35_1|Chains
+length = 146
+Seq('ATCAATATCCACCTGCAGATTCTACCAAAAGTGTATTTGGAAACTGCTCCATCA...GAT')
+1U35_2|Chains
+length = 136
+Seq('MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRR...ERA')    ....protein! count at 9
+
+1U35_3|Chains
+length = 103
+Seq('MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEE...FGG')    ....protein! count at 10
+
+1U35_4|Chains
+length = 120
+Seq('MSSRGGKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLE...RGS')    ....protein! count at 11
+
+1U35_5|Chains
+length = 126
+Seq('MPEPSRSTPAPKKGSKKAITKAQKKDGKKRKRGRKESYSIYVYKVLKQVHPDTG...SSK')    ....protein! count at 12
+
+-----file: 1BNZ.fasta
+
+1BNZ_1|Chains
+length = 8
+Seq('GTAATTAC')
+1BNZ_2|Chain
+length = 64
+Seq('MATVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKE...QKK')    ....protein! count at 13
+
+-----file: 1AHD.fasta
+
+1AHD_1|Chain
+length = 14
+Seq('GAAAGCCATTAGAG')
+1AHD_2|Chain
+length = 14
+Seq('CTCTAATGGCTTTC')
+1AHD_3|Chain
+length = 68
+Seq('MRKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALSLTERQIKIWFQNRR...EPG')    ....protein! count at 14
+
+-----file: 1MJQ.fasta
+
+1MJQ_1|Chains
+length = 19
+Seq('TTAGATATCTAGATATCTA')
+1MJQ_2|Chains
+length = 104
+Seq('AEWSGEYISPYAEHGKKSEQVKKITVSIPLKVLKILTDERTRRKVNNLRHATNS...WEY')    ....protein! count at 15
+
+-----file: 1S10.fasta
+
+1S10_1|Chain
+length = 13
+Seq('GGGGGAAGGACTA')
+1S10_2|Chain
+length = 17
+Seq('TCAGTAGTCCTTCCCCC')
+1S10_3|Chain
+length = 352
+Seq('MIVLFVDFDYFYAQVEEVLNPSLKGKPVVVCVFSGRFEDSGAVATANYEARKFG...FDT')    ....protein! count at 16
+
+-----file: 2C7O.fasta
+
+2C7O_1|Chain
+length = 327
+Seq('MIEIKDKQLTGLRFIDLFAGLGGFRLALESCGAECVYSNEWDKYAQEVYEMNFG...KPY')    ....protein! count at 17
+
+2C7O_2|Chain
+length = 13
+Seq('TGGATGCGCTGAC')
+2C7O_3|Chain
+length = 13
+Seq('TGTCAGCGCATCC')
+-----file: 1ZJM.fasta
+
+1ZJM_1|Chain
+length = 16
+Seq('CCGACCACGCATCAGC')
+1ZJM_2|Chain
+length = 10
+Seq('GCTGATGCGA')
+1ZJM_3|Chain
+length = 5
+Seq('GTCGG')
+1ZJM_4|Chain
+length = 335
+Seq('MSKRKAPQETLNGGITDMLTELANFEKNVSQAIHKYNAYRKAASVIAKYPHKIK...RSE')    ....protein! count at 18
+
+-----file: 1MSF.fasta
+
+1MSF_1|Chain
+length = 16
+Seq('CCTAACTGACACACAT')
+1MSF_2|Chain
+length = 16
+Seq('ATGTGTGTCAGTTAGG')
+1MSF_3|Chain
+length = 105
+Seq('MLIKGPWTKEEDQRVIKLVQKYGPKRWSVIAKHLKGRIGKQCRERWHNHLNPEV...RKV')    ....protein! count at 19
+
+-----file: 1U0D.fasta
+
+1U0D_1|Chain
+length = 24
+Seq('GCGAAACGTCGTGAGACAGTTCCG')
+1U0D_2|Chain
+length = 24
+Seq('CGGAACTGTCTCACGACGTTTCGC')
+1U0D_3|Chains
+length = 163
+Seq('MNTKYNKEFLLYLAGFVDGDGSIIAQIKPNQSHKFKHQLSLTFQVTEKTQRRWF...SSP')    ....protein! count at 20
+
+-----file: 1XYI.fasta
+
+1XYI_1|Chains
+length = 8
+Seq('GCGATCGC')
+1XYI_2|Chain
+length = 66
+Seq('MVKVKFKYKGEEKEVDTSKIKKVWRAGKAVSFTYDDNGKTGRGAVSEKDAPKEL...EKK')    ....protein! count at 21
+
+-----file: 1A1L.fasta
+
+1A1L_1|Chain
+length = 11
+Seq('AGCGTGGGCAC')
+1A1L_2|Chain
+length = 11
+Seq('TGTGCCCACGC')
+1A1L_3|Chain
+length = 90
+Seq('MERPYACPVESCDRRFSRSDELTRHIRIHTGQKPFQCRICMRNFSRSDHLTTHI...QKD')    ....protein! count at 22
+
+-----file: 1K4S.fasta
+
+1K4S_3|Chain
+length = 22
+Seq('AAAAATUUUUCAAAGUCUUUUT')
+1K4S_1|Chain
+length = 10
+Seq('AAAAAGACUU')
+1K4S_2|Chain
+length = 12
+Seq('TGAAAAAUUUUT')
+1K4S_4|Chain
+length = 592
+Seq('KKPKNKDKDKKVPEPDNKKKKPKKEEEQKWKWWEEERYPEGIKWKFLEHKGPVF...YEF')    ....protein! count at 23
+
+-----file: 2BJC.fasta
+
+2BJC_1|Chains
+length = 62
+Seq('MKPVTLYDVAEYAGVSVATVSRVVNQASHVSAKTREKVEAAMAELNYIPNRCAQ...QSL')    ....protein! count at 24
+
+2BJC_2|Chains
+length = 22
+Seq('GAATTGTAAGCGCTTACAATTC')
+-----file: 1A36.fasta
+
+1A36_2|Chain
+length = 22
+Seq('AAAAATTTTTCTAAGTCTTTTT')
+1A36_3|Chain
+length = 591
+Seq('KPKNKDKDKKVPEPDNKKKKPKKEEEQKWKWWEEERYPEGIKWKFLEHKGPVFA...YEF')    ....protein! count at 25
+
+1A36_1|Chain
+length = 22
+Seq('AAAAAGACTTAGAAAAATTTTT')
+-----file: 1KB2.fasta
+
+1KB2_1|Chain
+length = 18
+Seq('CACGGTTCACGAGGTTCA')
+1KB2_2|Chain
+length = 18
+Seq('TGAACCTCGTGAACCGTG')
+1KB2_3|Chains
+length = 110
+Seq('FDRNVPRICGVCGDRATGFHFNAMTCEGCKGFFRRSMKRKALFTCPFNGDCRIT...KLS')    ....protein! count at 26
+
+-----file: 1SL1.fasta
+
+1SL1_1|Chain
+length = 22
+Seq('CGAAAACGACGGCCAGTGCCTA')
+1SL1_2|Chain
+length = 25
+Seq('CCCTAGGCACTGGCCGTCGTTTTCG')
+1SL1_3|Chain
+length = 698
+Seq('MIVSDIEANALLESVTKFHCGVIYDYSTAEYVSYRPSDFGAYLDALEAEVARGG...ICH')    ....protein! count at 27
+
+1SL1_4|Chain
+length = 108
+Seq('SDKIIHLTDDSFDTDVLKADGAILVDFWAEWCGPCKMIAPILDEIADEYQGKLT...NLA')    ....protein! count at 28
+
+-----file: 1RRC.fasta
+
+1RRC_1|Chain
+length = 3
+Seq('GTC')
+1RRC_2|Chain
+length = 301
+Seq('MKKIILTIGCPGSGKSTWAREFIAKNPGFYNINRDDYRQSIMAHEERDEYKYTK...GDF')    ....protein! count at 29
+
+-----file: 1WB9.fasta
+
+1WB9_1|Chains
+length = 800
+Seq('MSAIENFDAHTPMMQQYLRLKAQHPEILLFYRMGDFYTLFYDDAKRASQLLDIS...SIS')    ....protein! count at 30
+
+1WB9_2|Chain
+length = 18
+Seq('AGCTGCCAGGCACCAGTG')
+1WB9_3|Chain
+length = 17
+Seq('ACTGGTGCTTGGCAGCT')
+-----file: 2BPG.fasta
+
+2BPG_1|Chains
+length = 8
+Seq('GGGCGCCG')
+2BPG_2|Chains
+length = 7
+Seq('CGGCGCC')
+2BPG_3|Chains
+length = 335
+Seq('MSKRKAPQETLNGGITDMLVELANFEKNVSQAIHKYNAYRKAASVIAKYPHKIK...RSE')    ....protein! count at 31
+
+-----file: 1W0T.fasta
+
+1W0T_1|Chains
+length = 53
+Seq('KRQAWLWEEDKNLRSGVRKYGEGNWSKILLHYKFNNRTSVMLKDRWRTMKKLK')    ....protein! count at 32
+
+1W0T_2|Chain
+length = 19
+Seq('CTGTTAGGGTTAGGGTTAG')
+1W0T_3|Chain
+length = 19
+Seq('TCTAACCCTAACCCTAACA')
+-----file: 1EWN.fasta
+
+1EWN_1|Chain
+length = 12
+Seq('GACATGATTGCC')
+1EWN_2|Chain
+length = 12
+Seq('GCAATCATGTCA')
+1EWN_3|Chain
+length = 219
+Seq('KGHLTRLGLEFFDQPAVPLARAFLGQVLVRRLPNGTELRGRIVETQAYLGPEDE...TQA')    ....protein! count at 33
+
+-----file: 1PUF.fasta
+
+1PUF_1|Chain
+length = 20
+Seq('ACTCTATGATTTACGACGCT')
+1PUF_2|Chain
+length = 20
+Seq('TAGCGTCGTAAATCATAGAG')
+1PUF_3|Chain
+length = 77
+Seq('NNPAANWLHARSTRKKRCPYTKHQTLELEKEFLFNMYLTRDRRYEVARLLNLTE...RAK')    ....protein! count at 34
+
+1PUF_4|Chain
+length = 73
+Seq('ARRKRRNFNKQATEILNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVSNWFGN...NIY')    ....protein! count at 35
+
+-----file: 1P5W.fasta
+
+1P5W_1|Chain
+length = 11
+Seq('NTACCTCTTGC')
+1P5W_2|Chain
+length = 548
+Seq('GVGISTGTFNNQTEFKFLENGWVEITANSSRLVHLNMPESENYRRVVVNNMDKT...KLY')    ....protein! count at 36
+
+-----file: 1K3W.fasta
+
+1K3W_1|Chain
+length = 13
+Seq('GGCTTCATCCTGG')
+1K3W_2|Chain
+length = 13
+Seq('CCAGGAXGAAGCC')
+1K3W_3|Chain
+length = 262
+Seq('PEGPEIRRAADNLEAAIKGKPLTDVWFAFPQLKTYQSQLIGQHVTHVETRGKAL...CQH')    ....protein! count at 37
+
+-----file: 1NLW.fasta
+
+1NLW_1|Chains
+length = 18
+Seq('GAGTAGCACGTGCTACTC')
+1NLW_2|Chains
+length = 80
+Seq('SRSTHNEMEKNRRAHLRLSLEKLKGLVPLGPDSSRHTTLSLLTKAKLHIKKLED...EKL')    ....protein! count at 38
+
+1NLW_3|Chains
+length = 76
+Seq('KRAHHNALERKRRDHIKDSFHSLRDSVPSLQGEKASRAQILDKATEYIQYMRRK...QQV')    ....protein! count at 39
+
+-----file: 1ZAA.fasta
+
+1ZAA_1|Chain
+length = 11
+Seq('AGCGTGGGCGT')
+1ZAA_2|Chain
+length = 11
+Seq('TACGCCCACGC')
+1ZAA_3|Chain
+length = 87
+Seq('HERPYACPVESCDRRFSRSDELTRHIRIHTGQKPFQCRICMRNFSRSDHLTTHI...HLR')    ....protein! count at 40
+
+-----file: 2AXY.fasta
+
+2AXY_1|Chains
+length = 7
+Seq('AACCCTA')
+2AXY_2|Chains
+length = 73
+Seq('KNVTLTIRLLMHGKEVGSIIGKKGESVKKMREESGARINISEGNCPERIITLAG...EED')    ....protein! count at 41
+
+-----file: 1ZRD.fasta
+
+1ZRD_1|Chains
+length = 17
+Seq('ATTTCGAAAAATGAGAT')
+1ZRD_2|Chains
+length = 21
+Seq('CTAGATCTCATTTTTCGAAAT')
+1ZRD_3|Chains
+length = 209
+Seq('VLGKPQTDPTLEWFLSHCHIHKYPSKSTLIHQGEKAETLYYIVKGSVAVLIKDE...GTR')    ....protein! count at 42
+
+-----file: 2E1C.fasta
+
+2E1C_1|Chain
+length = 17
+Seq('AGTGAAAATTTTTCACA')
+2E1C_2|Chain
+length = 17
+Seq('TGTGAAAAATTTTCACT')
+2E1C_3|Chain
+length = 171
+Seq('MGSSHHHHHHSSGLVPRGSHMRVPLDEIDKKIIKILQNDGKAPLREISKITGLA...PIK')    ....protein! count at 43
+
+-----file: 1Y77.fasta
+
+1Y77_1|Chain
+length = 19
+Seq('AGTACTTACGCCTGGTCTG')
+1Y77_10|Chain
+length = 171
+Seq('MFFIKDLSLNITLHPSFFGPRMKQYLKTKLLEEVEGSCTGKFGYILCVLDYDNI...GAI')    ....protein! count at 44
+
+1Y77_11|Chain
+length = 146
+Seq('MSNTLFDDIFQVSEVDPGRYNKVCRIEAASTTQDQCKLTLDINVELFPVAAQDS...IRR')    ....protein! count at 45
+
+1Y77_12|Chain
+length = 122
+Seq('MTTFRFCRDCNNMLYPREDKENNRLLFECRTCSYVEEAGSPLVYRHELITNIGE...QFS')    ....protein! count at 46
+
+1Y77_13|Chain
+length = 70
+Seq('MIVPVRCFSCGKVVGDKWESYLNLLQEDELDEGTALSRLGLKRYCCRRMILTHV...KRD')    ....protein! count at 47
+
+1Y77_14|Chain
+length = 120
+Seq('MNAPDRFELFLLGEGESKLKIDPDTKAPNAVVITFEKEDHTLGNLIRAELLNDR...DAF')    ....protein! count at 48
+
+1Y77_15|Chain
+length = 70
+Seq('MSREGFQIPTNLDAAAAGTSQARTATLKYICAECSSKLSLSRTDAVRCKDCGHR...EAR')    ....protein! count at 49
+
+1Y77_2|Chain
+length = 7
+Seq('AAGTACT')
+1Y77_3|Chain
+length = 10
+Seq('AAGACCAGGC')
+1Y77_4|Chain
+length = 1733
+Seq('MVGQQYSSAPLRTVKEVQFGLFSPEEVRAISVAKIRFPETMDETQTRAKIGGLN...NSR')    ....protein! count at 50
+
+1Y77_5|Chain
+length = 1224
+Seq('MSDLANSEKYYDEDPYGFEDESAPITAEDSWAVISAFFREKGLVSQQLDSFNQF...RDF')    ....protein! count at 51
+
+1Y77_6|Chain
+length = 318
+Seq('MSEEGPQVKIREASKDNVDFILSNVDLAMANSLRRVMIAEIPTLAIDSVEVETN...NAW')    ....protein! count at 52
+
+1Y77_7|Chain
+length = 221
+Seq('MNVSTSTFQTRRRRLKKVEEEENAATLQLGQEFQLKQINHQGEEEELIALNLSE...TLY')    ....protein! count at 53
+
+1Y77_8|Chain
+length = 215
+Seq('MDQENERNISRLWRAFRTVKEMVKDRGYFITQEEVELPLEDFKAKYCDSMGRPQ...ICM')    ....protein! count at 54
+
+1Y77_9|Chain
+length = 155
+Seq('MSDYEEAFNDGNENFEDFDVEHFSDEETYEEKPQFKDGETTDANGKTIVTGGNG...VDL')    ....protein! count at 55
+
+-----file: 1D02.fasta
+
+1D02_1|Chains
+length = 10
+Seq('GCCAATTGGC')
+1D02_2|Chains
+length = 202
+Seq('MGKSELSGRLNWQALAGLKASGAEQNLYNVFNAVFEGTKYVLYEKPKHLKNLYA...YLD')    ....protein! count at 56
+
+-----file: 1SXQ.fasta
+
+1SXQ_1|Chains
+length = 13
+Seq('AAAAAAGTTTTTT')
+1SXQ_2|Chains
+length = 13
+Seq('AAAAAACTTTTTT')
+1SXQ_3|Chains
+length = 351
+Seq('MKIAIINMGNNVINFKTVPSSETIYLFKVISEMGLNVDIISLKNGVYTKSFDEV...IDL')    ....protein! count at 57
+
+-----file: 1EXI.fasta
+
+1EXI_1|Chain
+length = 21
+Seq('ACCCTCCCCTTAGGGGAGGGT')
+1EXI_2|Chain
+length = 278
+Seq('MKESYYSIGEVSKLANVSIKALRYYDKIDLFKPAYVDPDTSYRYYTDSQLIHLD...IAE')    ....protein! count at 58
+
+-----file: 1P3M.fasta
+
+1P3M_1|Chains
+length = 146
+Seq('ATCAATATCCACCTGCAGATTCTACCAAAAGTGTATTTGGAAACTGCTCCATCA...GAT')
+1P3M_2|Chains
+length = 135
+Seq('ARTKQTARKSTGGKAPRKQLATKAARKSAPATGESKKPHRYRPGTVALREIRRY...ERA')    ....protein! count at 59
+
+1P3M_3|Chains
+length = 102
+Seq('SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEET...FGG')    ....protein! count at 60
+
+1P3M_4|Chains
+length = 129
+Seq('SGRGKQGGKTRAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAV...KSK')    ....protein! count at 61
+
+1P3M_5|Chains
+length = 125
+Seq('PEPAKSAPAPKKGSKKAVTKTQKKDGKKRRKSRKESYAIYVYKVLKQVHPDTGI...SAK')    ....protein! count at 62
+
+-----file: 2DPU.fasta
+
+2DPU_1|Chain
+length = 10
+Seq('ATGTTCATAG')
+2DPU_2|Chain
+length = 11
+Seq('CTATGAACATT')
+2DPU_3|Chain
+length = 122
+Seq('MKEEKRSSTGFLVKQRAFLKLYMITMTEQERLYGLKLLEVLRSEFKEIGFKPNH...DNF')    ....protein! count at 63
+
+-----file: 1G9Z.fasta
+
+1G9Z_1|Chain
+length = 14
+Seq('GCAAAACGTCGTGA')
+1G9Z_2|Chain
+length = 10
+Seq('GACAGTTTCG')
+1G9Z_3|Chain
+length = 14
+Seq('CGAAACTGTCTCAC')
+1G9Z_4|Chain
+length = 10
+Seq('GACGTTTTGC')
+1G9Z_5|Chains
+length = 152
+Seq('NTKYNKEFLLYLAGFVDGDGSIIAQIKPNQSYKFKHQLSLTFQVTQKTQRRWFL...VLD')    ....protein! count at 64
+
+-----file: 2ERG.fasta
+
+2ERG_1|Chains
+length = 15
+Seq('TTGCCGGTACCGGCA')
+2ERG_2|Chains
+length = 72
+Seq('KRKFACVECRQQKSKCDACERAPEPCTKCAKKNVPCILKRDFRRTYKRARNEAI...SDE')    ....protein! count at 65
+
+-----file: 1HW2.fasta
+
+1HW2_1|Chain
+length = 22
+Seq('CGATCTGGTCCGACCAGATGCT')
+1HW2_2|Chain
+length = 22
+Seq('GCATCTGGTCGGACCAGATCGA')
+1HW2_3|Chains
+length = 239
+Seq('MVIKAQSPAGFAEEYIIESIWNNRFPPGTILPAERELSELIGVTRTTLREVLQR...QGR')    ....protein! count at 66
+
+-----file: 1IV6.fasta
+
+1IV6_1|Chain
+length = 13
+Seq('GTTAGGGTTAGGG')
+1IV6_2|Chain
+length = 13
+Seq('CCCTAACCCTAAC')
+1IV6_3|Chain
+length = 70
+Seq('MTPEKHRARKRQAWLWEEDKNLRSGVRKYGEGNWSKILLHYKFNNRTSVMLKDR...SED')    ....protein! count at 67
+
+-----file: 2EVI.fasta
+
+2EVI_1|Chain
+length = 14
+Seq('TGCGACACAATAAC')
+2EVI_2|Chain
+length = 14
+Seq('AGTTATTGTGTCGC')
+2EVI_3|Chain
+length = 345
+Seq('GPLGSMNEMENTDPVLQDDLVSKYERELSTEQEEDTPVILTQLNEDGTTSNYFD...TVR')    ....protein! count at 68
+
+-----file: 1ID3.fasta
+
+1ID3_1|Chains
+length = 146
+Seq('ATCAATATCCACCTGCAGATTCTACCAAAAGTGTATTTGGAAACTGCTCCATCA...GAT')
+1ID3_2|Chains
+length = 135
+Seq('ARTKQTARKSTGGKAPRKQLASKAARKSAPSTGGVKKPHRYKPGTVALREIRRF...ERS')    ....protein! count at 69
+
+1ID3_3|Chains
+length = 102
+Seq('SGRGKGGKGLGKGGAKRHRKILRDNIQGITKPAIRRLARRGGVKRISGLIYEEV...FGG')    ....protein! count at 70
+
+1ID3_4|Chains
+length = 131
+Seq('SGGKGGKAGSAAKASQSRSAKAGLTFPVGRVHRLLRRGNYAQRIGSGAPVYLTA...QEL')    ....protein! count at 71
+
+1ID3_5|Chains
+length = 130
+Seq('SSAAEKKPASKAPAEKKPAAKKTSTSVDGKKRSKVRKETYSSYIYKVLKQTHPD...TQA')    ....protein! count at 72
+
+-----file: 1P3A.fasta
+
+1P3A_1|Chains
+length = 146
+Seq('ATCAATATCCACCTGCAGATTCTACCAAAAGTGTATTTGGAAACTGCTCCATCA...GAT')
+1P3A_2|Chains
+length = 135
+Seq('ARTKQTARKSTGGKAPRKQLATKAARKSAPATGESKKPHRYRPGTVALREIRRY...ERA')    ....protein! count at 73
+
+1P3A_3|Chains
+length = 102
+Seq('SGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEET...FGG')    ....protein! count at 74
+
+1P3A_4|Chains
+length = 129
+Seq('SGRGKQGGKTRAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAV...KSK')    ....protein! count at 75
+
+1P3A_5|Chains
+length = 125
+Seq('PEPAKSAPAPKKGSKKAVTKTQKKDGKKRRKSRKESYAIYVYKVLKQVHPDTGI...SAK')    ....protein! count at 76
+
+-----file: 1EWQ.fasta
+
+1EWQ_1|Chain
+length = 23
+Seq('GCGACGCTAGCGTGCGGCTCGTC')
+1EWQ_2|Chain
+length = 22
+Seq('GGACGAGCCGCCGCTAGCGTCG')
+1EWQ_3|Chains
+length = 765
+Seq('MEGMLKGEGPGPLPPLLQQYVELRDQYPDYLLLFQVGDFYECFGEDAERLARAL...AAR')    ....protein! count at 77
+
+-----file: 1EYU.fasta
+
+1EYU_1|Chains
+length = 13
+Seq('TGACCAGCTGGTC')
+1EYU_2|Chains
+length = 157
+Seq('MSHPDLNKLLELWPHIQEYQDLALKHGINDIFQDNGGKLLQVLLITGLTVLPGR...KIY')    ....protein! count at 78
+
+-----file: 2EXF.fasta
+
+2EXF_1|Chain
+length = 14
+Seq('GTCCCTGTTCGGGC')
+2EXF_2|Chain
+length = 44
+Seq('NVKCFNCGKEGHTARNCRAPRKKGCWKCGKEGHQMKDCTERQAN')    ....protein! count at 79
+
+-----file: 1S9K.fasta
+
+1S9K_1|Chain
+length = 20
+Seq('TTTGAAAATATGTGTAATAG')
+1S9K_2|Chain
+length = 20
+Seq('AACTATTACACATATTTTCA')
+1S9K_3|Chain
+length = 280
+Seq('WPLSSQSGSYELRIEVQPKPHHRAHYETEGSRGAVKAPTGGHPVVQLHGYMENK...HPV')    ....protein! count at 80
+
+1S9K_4|Chain
+length = 53
+Seq('RRIRRERNKMAAAKCRNRRRELTDTLQAETDQLEDEKSALQTEIANLLKEKEK')    ....protein! count at 81
+
+1S9K_5|Chain
+length = 52
+Seq('RKRMRNRIAASKCRKRKLERIARLEEKVKTLKAQNSELASTANMLREQVAQL')    ....protein! count at 82
+
+-----file: 1JB7.fasta
+
+1JB7_1|Chains
+length = 12
+Seq('GGGGTTTTGGGG')
+1JB7_2|Chain
+length = 495
+Seq('MSTAAKQNRSTSRVSKKKTAAPKEGAAKKSDKGHKYEYVELAKASLTSAQPQHF...LIY')    ....protein! count at 83
+
+1JB7_3|Chain
+length = 260
+Seq('MSKGASAPQQQSAFKQLYTELFNNEGDFSKVSSNLKKPLKCYVKESYPHFLVTD...KKL')    ....protein! count at 84
+
+-----file: 1FW6.fasta
+
+1FW6_1|Chain
+length = 23
+Seq('GCGACGCTAGCGTGCGGCTCGTC')
+1FW6_2|Chain
+length = 22
+Seq('GGACGAGCCGCCGCTAGCGTCG')
+1FW6_3|Chains
+length = 768
+Seq('MEGMLKGEGPGPLPPLLQQYVELRDQYPDYLLLFQVGDFYECFGEDAERLARAL...REG')    ....protein! count at 85
+
+-----file: 1OCT.fasta
+
+1OCT_1|Chain
+length = 15
+Seq('TGTATGCAAATAAGG')
+1OCT_2|Chain
+length = 15
+Seq('ACCTTATTTGCATAC')
+1OCT_3|Chain
+length = 156
+Seq('DLEELEQFAKTFKQRRIKLGFTQGDVGLAMGKLYGNDFSQTTISRFEALNLSFK...INP')    ....protein! count at 86
+
+-----file: 1WVL.fasta
+
+1WVL_1|Chains
+length = 10
+Seq('CCTATATAGG')
+1WVL_2|Chains
+length = 80
+Seq('MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKEL...ELH')    ....protein! count at 87
+
+-----file: 1A1J.fasta
+
+1A1J_1|Chain
+length = 11
+Seq('AGCGTGGGCGT')
+1A1J_2|Chain
+length = 11
+Seq('TACGCCCACGC')
+1A1J_3|Chain
+length = 90
+Seq('MERPYACPVESCDRRFSRSADLTRHIRIHTGQKPFQCRICMRNFSRSDHLTTHI...QKD')    ....protein! count at 88
+
+-----file: 1O3R.fasta
+
+1O3R_1|Chain
+length = 11
+Seq('AAAAATGCGAT')
+1O3R_2|Chain
+length = 15
+Seq('CTAGATCGCATTTTT')
+1O3R_3|Chain
+length = 200
+Seq('DPTLEWFLSHCHIHKYPSKSTLIHQGEKAETLYYIVKGSVAVLIKDEEGKEMIL...VYG')    ....protein! count at 89
+
+-----file: 1APL.fasta
+
+1APL_1|Chain
+length = 21
+Seq('ACATGTAATTCATTTACACGC')
+1APL_2|Chain
+length = 21
+Seq('TGCGTGTAAATGAATTACATG')
+1APL_3|Chains
+length = 83
+Seq('TKPYRGHRFTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVS...KKE')    ....protein! count at 90
+
+-----file: 1ZTG.fasta
+
+1ZTG_1|Chains
+length = 74
+Seq('GILTIRLLMHGKEVGSIIGKKGESVKRIREESGARINISEGNCPERIITLTGPT...INS')    ....protein! count at 91
+
+1ZTG_2|Chains
+length = 8
+Seq('CCCTCCCT')
+-----file: 1RG1.fasta
+
+1RG1_1|Chains
+length = 4
+Seq('AGTT')
+1RG1_2|Chains
+length = 485
+Seq('MGSSHHHHHHSSGLVPRGSHMLEDPGEGQDIWDMLDKGNPFQFYLTRVSGVKPK...VPS')    ....protein! count at 92
+
+-----file: 1OUZ.fasta
+
+1OUZ_1|Chain
+length = 35
+Seq('CGGTGCTACAAATTGATAAGCAATGCTTTTTTGGC')
+1OUZ_2|Chain
+length = 15
+Seq('GGCCAAAAAAGCATT')
+1OUZ_3|Chain
+length = 20
+Seq('GCTTATCAATTTGTAGCACC')
+1OUZ_4|Chain
+length = 99
+Seq('MALTKAEMSEYLFDKLGLSKRDAKELVELFFEEIRRALENGEQVKLSGFGNFDL...KDE')    ....protein! count at 93
+
+1OUZ_5|Chain
+length = 94
+Seq('MTKSELIERLATQQSHIPAKTVEDAVKEMLEHMASTLAQGERIAIRGFGSFSLH...IYG')    ....protein! count at 94
+
+-----file: 1EO3.fasta
+
+1EO3_1|Chains
+length = 11
+Seq('CAAGATATCTT')
+1EO3_2|Chains
+length = 245
+Seq('MSLRSDLINALYDENQKYDVCGIISAEGKIYPLGSDTKVLSTIFELFSRPIINK...GRK')    ....protein! count at 95
+
+-----file: 2EVG.fasta
+
+2EVG_1|Chain
+length = 14
+Seq('TGCGACACATAAAC')
+2EVG_2|Chain
+length = 14
+Seq('AGTTTATGTGTCGC')
+2EVG_3|Chain
+length = 345
+Seq('GPLGSMNEMENTDPVLQDDLVSKYERELSTEQEEDTPVILTQLNEDGTTSNYFD...TVR')    ....protein! count at 96
+
+-----file: 2E2H.fasta
+
+2E2H_1|Chain
+length = 10
+Seq('AUCGAGAGGA')
+2E2H_10|Chain
+length = 122
+Seq('MTTFRFCRDCNNMLYPREDKENNRLLFECRTCSYVEEAGSPLVYRHELITNIGE...QFS')    ....protein! count at 97
+
+2E2H_11|Chain
+length = 70
+Seq('MIVPVRCFSCGKVVGDKWESYLNLLQEDELDEGTALSRLGLKRYCCRRMILTHV...KRD')    ....protein! count at 98
+
+2E2H_12|Chain
+length = 120
+Seq('MNAPDRFELFLLGEGESKLKIDPDTKAPNAVVITFEKEDHTLGNLIRAELLNDR...DAF')    ....protein! count at 99
+
+2E2H_13|Chain
+length = 70
+Seq('MSREGFQIPTNLDAAAAGTSQARTATLKYICAECSSKLSLSRTDAVRCKDCGHR...EAR')    ....protein! count at 100
+
+2E2H_2|Chain
+length = 28
+Seq('CTACCGATAAGCAGACGCTCCTCTCGAT')
+2E2H_3|Chain
+length = 14
+Seq('CTGCTTATCGGTAG')
+2E2H_4|Chain
+length = 1733
+Seq('MVGQQYSSAPLRTVKEVQFGLFSPEEVRAISVAKIRFPETMDETQTRAKIGGLN...NSR')    ....protein! count at 101
+
+2E2H_5|Chain
+length = 1224
+Seq('MSDLANSEKYYDEDPYGFEDESAPITAEDSWAVISAFFREKGLVSQQLDSFNQF...RDF')    ....protein! count at 102
+
+2E2H_6|Chain
+length = 318
+Seq('MSEEGPQVKIREASKDNVDFILSNVDLAMANSLRRVMIAEIPTLAIDSVEVETN...NAW')    ....protein! count at 103
+
+2E2H_7|Chain
+length = 215
+Seq('MDQENERNISRLWRAFRTVKEMVKDRGYFITQEEVELPLEDFKAKYCDSMGRPQ...ICM')    ....protein! count at 104
+
+2E2H_8|Chain
+length = 155
+Seq('MSDYEEAFNDGNENFEDFDVEHFSDEETYEEKPQFKDGETTDANGKTIVTGGNG...VDL')    ....protein! count at 105
+
+2E2H_9|Chain
+length = 146
+Seq('MSNTLFDDIFQVSEVDPGRYNKVCRIEAASTTQDQCKLTLDINVELFPVAAQDS...IRR')    ....protein! count at 106
+
+-----file: 2F8X.fasta
+
+2F8X_1|Chain
+length = 18
+Seq('GTTACTGTGGGAAAGAAA')
+2F8X_2|Chain
+length = 18
+Seq('TTTCTTTCCCACAGTAAC')
+2F8X_3|Chain
+length = 434
+Seq('MGERPPPKRLTREAMRNYLKERGDQTVLILHAKVAQKSYGNEKRFFCPPPCVYL...HHH')    ....protein! count at 107
+
+2F8X_4|Chain
+length = 256
+Seq('GMDVNVRGPDGFTPLMIASCSGGGLETGNSEEEEDAPAVISDFIYQGASLHNQT...LHG')    ....protein! count at 108
+
+2F8X_5|Chain
+length = 63
+Seq('GLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQ...GKH')    ....protein! count at 109
+
+-----file: 2AQ4.fasta
+
+2AQ4_1|Chain
+length = 12
+Seq('ATCCTCCCCTAC')
+2AQ4_2|Chain
+length = 16
+Seq('TAAGGTAGGGGAGGAT')
+2AQ4_3|Chain
+length = 434
+Seq('KRIVACDDPDFLTSYFAHSRLHHLSAWKANLKDKFLNENIHKYTKITDKDTYII...VDV')    ....protein! count at 110
+
+-----file: 173D.fasta
+
+173D_1|Chains
+length = 8
+Seq('GAAGCTTC')
+173D_2|Chains
+length = 11
+Seq('TVPGVXTVPGV')    ....protein! count at 111
+
+-----file: 1S0N.fasta
+
+1S0N_1|Chain
+length = 13
+Seq('GGCACTGATCACG')
+1S0N_2|Chain
+length = 18
+Seq('TACGACGTGATCAGTGCC')
+1S0N_3|Chain
+length = 352
+Seq('MIVLFVDFDYFYAQVEEVLNPSLKGKPVVVCVFSGRFEDSGAVATANYEARKFG...FDT')    ....protein! count at 112
+
+-----file: 1MNN.fasta
+
+1MNN_1|Chain
+length = 14
+Seq('TGCGACACAAAAAC')
+1MNN_2|Chain
+length = 14
+Seq('AGTTTTTGTGTCGC')
+1MNN_3|Chain
+length = 340
+Seq('MNEMENTVPVLQDDLVSKYERELSTEQEEDTPVILTQLNEDGTTSNYFDKRKLK...TVR')    ....protein! count at 113
+
+-----file: 1WTE.fasta
+
+1WTE_1|Chain
+length = 13
+Seq('ACCGGGCCCTGCC')
+1WTE_2|Chain
+length = 13
+Seq('GGCAGGGCCCGGT')
+1WTE_3|Chains
+length = 272
+Seq('MNKQEVILKVQECAAWWILERQSKLTKLMSETMSINPFMTPFIFDYHSLNDFDE...INE')    ....protein! count at 114
+
+-----file: 1T05.fasta
+
+1T05_1|Chain
+length = 27
+Seq('ATGGTCGGCGCCCGAACAGGGACTGTG')
+1T05_2|Chain
+length = 21
+Seq('ACAGTCCCTGTTCGGGCGCCG')
+1T05_3|Chain
+length = 558
+Seq('PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGPEN...IRK')    ....protein! count at 115
+
+1T05_4|Chain
+length = 437
+Seq('PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGPEN...HHH')    ....protein! count at 116
+
+-----file: 1CKQ.fasta
+
+1CKQ_1|Chain
+length = 13
+Seq('TCGCGAATTCGCG')
+1CKQ_2|Chain
+length = 276
+Seq('SNKKQSNRLTEQHKLSQGVIGIFGDYAKAHDLAVGEVSKLVKKALSNEYPQLSF...TSK')    ....protein! count at 117
+
+-----file: 2FD8.fasta
+
+2FD8_1|Chain
+length = 3
+Seq('TAT')
+2FD8_2|Chain
+length = 211
+Seq('MQEPLAAGAVILRRFAFNAAEQLIRDINDVASQSPFRQMVTPGGYTMSVAMTNC...YFQ')    ....protein! count at 118
+
+-----file: 1AAY.fasta
+
+1AAY_1|Chain
+length = 11
+Seq('AGCGTGGGCGT')
+1AAY_2|Chain
+length = 11
+Seq('TACGCCCACGC')
+1AAY_3|Chain
+length = 90
+Seq('MERPYACPVESCDRRFSRSDELTRHIRIHTGQKPFQCRICMRNFSRSDHLTTHI...QKD')    ....protein! count at 119
+
+-----file: 1TW8.fasta
+
+1TW8_1|Chains
+length = 13
+Seq('GCCGGTCGACCGG')
+1TW8_2|Chains
+length = 257
+Seq('SFIKPIYQDINSILIGQKVKRPKSGTLSGHAAGEPFEKLVYKFLKENLSDLTFK...YIL')    ....protein! count at 120
+
+-----file: 1P51.fasta
+
+1P51_1|Chains
+length = 19
+Seq('GCATATCAATTTGTTGCAT')
+1P51_2|Chains
+length = 94
+Seq('MNKGELVDAVAEKASVTKKQADAVLTAALETIIEAVSSGDKVTLVGFGSFESRE...PKA')    ....protein! count at 121
+
+-----file: 2F8N.fasta
+
+2F8N_1|Chains
+length = 146
+Seq('ATCAATATCCACCTGCAGATTCTACCAAAAGTGTATTTGGAAACTGCTCCATCA...GAT')
+2F8N_2|Chains
+length = 136
+Seq('MARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRR...ERA')    ....protein! count at 122
+
+2F8N_3|Chains
+length = 103
+Seq('MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEE...FGG')    ....protein! count at 123
+
+2F8N_4|Chain
+length = 126
+Seq('MPEPSRSTPAPKKGSKKAITKAQKKDGKKRKRGRKESYSIYVYKVLKQVHPDTG...SSK')    ....protein! count at 124
+
+2F8N_5|Chain
+length = 123
+Seq('MAKSAPAPKKGSKKAVTKTQKKDGKKRRKTRKESYAIYVYKVLKQVHPDTGISS...SAK')    ....protein! count at 125
+
+2F8N_6|Chain
+length = 120
+Seq('MSSRGGKKKSTKTSRSAKAGVIFPVGRMLRYIKKGHPKYRIGVGAPVYMAAVLE...RGS')    ....protein! count at 126
+
+2F8N_7|Chain
+length = 149
+Seq('MGSSHHHHHHSSGLVPRGSMSGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLL...KGK')    ....protein! count at 127
+
+-----file: 1TK0.fasta
+
+1TK0_3|Chain
+length = 698
+Seq('MIVSDIEANALLESVTKFHCGVIYDYSTAEYVSYRPSDFGAYLDALEAEVARGG...ICH')    ....protein! count at 128
+
+1TK0_1|Chain
+length = 22
+Seq('CGAAAACGACGGCCAGTGCCAG')
+1TK0_2|Chain
+length = 26
+Seq('CCCGCTGGCACTGGCCGTCGTTTTCG')
+1TK0_4|Chain
+length = 108
+Seq('SDKIIHLTDDSFDTDVLKADGAILVDFWAEWCGPCKMIAPILDEIADEYQGKLT...NLA')    ....protein! count at 129
+
+-----file: 1JJ6.fasta
+
+1JJ6_1|Chain
+length = 14
+Seq('TGTUTTTGATAAGA')
+1JJ6_2|Chain
+length = 14
+Seq('ATCTTATCAAAAAC')
+1JJ6_3|Chain
+length = 52
+Seq('GRPRAINKHEQEQISRLLEKGHPRQQLAIIFGIGVSTLYRYFPASSIKKRMN')    ....protein! count at 130
+
+-----file: 2A66.fasta
+
+2A66_1|Chain
+length = 12
+Seq('GTTCAAGGCCAG')
+2A66_2|Chain
+length = 12
+Seq('CTGGCCTTGAAC')
+2A66_3|Chain
+length = 113
+Seq('GEFGDEDLEELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNNKRYTCIENQNC...LIR')    ....protein! count at 131
+
+-----file: 1U8R.fasta
+
+1U8R_1|Chains
+length = 33
+Seq('CCCTGTTAGCACAGGCTGCCCTAATTTTAGTGG')
+1U8R_2|Chains
+length = 33
+Seq('CACTAAAATTAGGGCAGCCTGTGCTAACAGGGC')
+1U8R_3|Chains
+length = 230
+Seq('MNELVDTTEMYLRTIYDLEEEGVTPLRARIAERLDQSGPTVSQTVSRMERDGLL...EKV')    ....protein! count at 132
+
+-----file: 1J59.fasta
+
+1J59_1|Chains
+length = 14
+Seq('GCGAAAAGTGTGAC')
+1J59_2|Chains
+length = 17
+Seq('ATATGTCACACTTTTCG')
+1J59_3|Chains
+length = 209
+Seq('VLGKPQTDPTLEWFLSHCHIHKYPSKSTLIHQGEKAETLYYIVKGSVAVLIKDE...GTR')    ....protein! count at 133
+
+-----file: 1OSB.fasta
+
+1OSB_1|Chains
+length = 25
+Seq('GCGCACCGAAAGGTGCGTATTGTCT')
+1OSB_2|Chains
+length = 293
+Seq('MLSHMVLTRQDIGRAASYYEDGADDYYAKDGDASEWQGKGAEELGLSGEVDSKR...DFS')    ....protein! count at 134
+
+-----file: 1LE8.fasta
+
+1LE8_1|Chain
+length = 20
+Seq('ACATGTAAAAATTTACATCA')
+1LE8_2|Chain
+length = 20
+Seq('TTGATGTAAATTTTTACATG')
+1LE8_3|Chain
+length = 53
+Seq('KSSISPQARAFLEQVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFINKRMRSK')    ....protein! count at 135
+
+1LE8_4|Chain
+length = 83
+Seq('TKPYRGHRFTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVA...KKE')    ....protein! count at 136
+
+-----file: 1DDN.fasta
+
+1DDN_1|Chain
+length = 33
+Seq('ATATAATTAGGATAGCTTTACCTAATTATTTTA')
+1DDN_2|Chain
+length = 33
+Seq('TTAAAATAATTAGGTAAAGCTATCCTAATTATA')
+1DDN_3|Chains
+length = 226
+Seq('MKDLVDTTEMYLRTIYELEEEGVTPLRARIAERLEQSGPTVSQTVARMERDGLV...EEL')    ....protein! count at 137
+
+-----file: 1YFH.fasta
+
+1YFH_1|Chains
+length = 16
+Seq('GTGGATGCGTGTAGGT')
+1YFH_3|Chains
+length = 179
+Seq('MDKDCEMKRTTLDSPLGKLELSGCEQGLHEIKLLGKGTSAADAVEVPAPAAVLG...GKP')    ....protein! count at 138
+
+1YFH_2|Chains
+length = 16
+Seq('CCTACACACATCCACA')
+-----file: 1PUE.fasta
+
+1PUE_1|Chains
+length = 16
+Seq('AAAAAGGGGAAGTGGG')
+1PUE_2|Chains
+length = 16
+Seq('TCCCACTTCCCCTTTT')
+1PUE_3|Chains
+length = 89
+Seq('KIRLYQFLLDLLRSGDMKDSIWWVDKDKGTFQFSSKHKEALAHRWGIQKGNRKK...EVL')    ....protein! count at 139
+
+-----file: 1LQ1.fasta
+
+1LQ1_1|Chains
+length = 16
+Seq('TTCGTGTCGAATTTTG')
+1LQ1_2|Chains
+length = 16
+Seq('ACAAAATTCGACACGA')
+1LQ1_3|Chains
+length = 120
+Seq('PKKKNLDASITSIIHEIGVPAHIKGYLYLREAISMVYNDIELLGSITKVLYPDI...KAS')    ....protein! count at 140
+
+-----file: 1U1O.fasta
+
+1U1O_1|Chain
+length = 11
+Seq('TAGGGTTAGIG')    ....protein! count at 141
+
+1U1O_2|Chain
+length = 196
+Seq('MSKSESPKEPEQLRKLFIGGLSFETTDESLRSHFEQWGTLTDCVVMRDPNTKRS...RGR')    ....protein! count at 142
+
+-----file: 2DPD.fasta
+
+2DPD_1|Chain
+length = 21
+Seq('CTATGAACATAATGTTCATAG')
+2DPD_2|Chain
+length = 21
+Seq('CTATGAACATTATGTTCATAG')
+2DPD_3|Chains
+length = 122
+Seq('MKEEKRSSTGFLVKQRAFLKLYMITMTEQERLYGLKLLEVLRSEFKEIGFKPNH...DNF')    ....protein! count at 143
+
+-----file: 1WD0.fasta
+
+1WD0_1|Chains
+length = 10
+Seq('CCTATATAGG')
+1WD0_2|Chain
+length = 66
+Seq('MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKEL...EKK')    ....protein! count at 144
+
+-----file: 1XC8.fasta
+
+1XC8_1|Chain
+length = 14
+Seq('CTCTTTGTTTCTCG')
+1XC8_2|Chain
+length = 14
+Seq('GCGAGAAACAAAGA')
+1XC8_3|Chain
+length = 271
+Seq('PELPEVETVRRELEKRIVGQKIISIEATYPRMVLTGFEQLKKELTGKTIQGISR...QQK')    ....protein! count at 145
+
+-----file: 2C9L.fasta
+
+2C9L_1|Chain
+length = 19
+Seq('AAGCACTGACTCATGAAGT')
+2C9L_2|Chain
+length = 18
+Seq('ACTTCATGAGTCAGTGCT')
+2C9L_3|Chains
+length = 63
+Seq('MLEIKRYKNRVAARKSRAKFKQLLQHYREVAAAKSSENDRLRLLLKQMCPSLDV...TPD')    ....protein! count at 146
+
+-----file: 2F5P.fasta
+
+2F5P_1|Chain
+length = 16
+Seq('AGGTAGACTTGGACGC')
+2F5P_2|Chain
+length = 16
+Seq('TGCGTCCAAGTCTACC')
+2F5P_3|Chain
+length = 274
+Seq('MPELPEVETIRRTLLPLIVGKTIEDVRIFWPNIIRHPRDSEAFAARMIGQTVRG...CQR')    ....protein! count at 147
+
+-----file: 1VOL.fasta
+
+1VOL_1|Chain
+length = 16
+Seq('GGCTATAAAAGGGCTG')
+1VOL_2|Chain
+length = 16
+Seq('CAGCCCTTTTATAGCC')
+1VOL_3|Chain
+length = 204
+Seq('AMMNAFKEITTMADRINLPRNKVDRTNNLFRQAYEQKSLKGRANDAIASACLYI...PQL')    ....protein! count at 148
+
+1VOL_4|Chain
+length = 200
+Seq('MTDQGLEGSNPVDLSKHPSGIVPTLQNIVSTVNLDCKLDLKAIALQARNAEYNP...IQQ')    ....protein! count at 149
+
+-----file: 1GM5.fasta
+
+1GM5_1|Chain
+length = 780
+Seq('MLCSRYFTSSLFLWGEALPTLLEEFLNEVEKMLKNQVNTRRIHQLLKELDDPLL...EVG')    ....protein! count at 150
+
+1GM5_2|Chain
+length = 20
+Seq('CAGCTCCATGATCATTGGCA')
+1GM5_3|Chain
+length = 20
+Seq('GCAGTGCTCGCATGGAGCTG')
+1GM5_4|Chain
+length = 9
+Seq('GAGCACTGC')
+-----file: 1HLV.fasta
+
+1HLV_2|Chain
+length = 21
+Seq('AATCCCGTTTCCAACGAAGGC')
+1HLV_3|Chain
+length = 131
+Seq('MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILA...RRS')    ....protein! count at 151
+
+1HLV_1|Chain
+length = 21
+Seq('GCCTTCGTTGGAAACGGGATT')
