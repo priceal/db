@@ -25,7 +25,6 @@ import requests
 import pandas as pd
 import os
 
-# define script variables
 # inputs
 pdbCodeFile = './csv/filtered_20250402.csv'              # file containing pdb ids
 
@@ -39,7 +38,7 @@ maxNumber = 10000      # maximum number to download (limit to first maxNumber id
 if os.path.splitext(pdbCodeFile)[-1] == '.csv':  
     df = pd.read_csv(pdbCodeFile)
     pdbCodes=list(df['pdbid'])
-else:    # a simple whitespace separated list of ids
+else:    # or below if a simple whitespace separated list of ids
     with open(pdbCodeFile) as f:
         fileRead=f.read()
     pdbCodes = fileRead.strip().split()
@@ -55,17 +54,23 @@ fasta files. Here, all are downloaded from the PDB.
 '''
 os.makedirs(fastaDirectory,exist_ok=True)
 print('downloading fasta files to', fastaDirectory)
+# n.b. convention is to ensure lower case for all file names
+# however, PDB  uses upper case for fasta API
 for code in pdbCodes:
     savePath = os.path.join(fastaDirectory,code.lower()+'.fasta')
     if os.path.exists(savePath):
-        print('*'+code+'*',end=' ')
+        print('*'+code+'*',end=' ') # indicate skipped
     else:
         url = 'https://www.rcsb.org/fasta/entry/' + code.upper()
-        download = requests.get(url)
-        with open( savePath, 'w' ) as f:
-            f.write( download.text )
-        print(code,end=' ')
-print('downloads completed.')
+        try:
+            download = requests.get(url)
+            with open( savePath, 'w' ) as f:
+                f.write( download.text )
+            print(code,end=' ')
+        except Exception as e:
+            print(f"Error fetching {code}: {e}")
+            
+print('\ndownloads completed.')
         
         
         

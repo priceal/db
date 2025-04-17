@@ -13,22 +13,23 @@ from Bio import SeqIO
 
 # inputs
 fastaDirectory = '../DATA/db/fasta'
+clusterResTsv = 'clusterRes4687_cluster.tsv'
 
-
-df=pd.read_csv('clusterRes4687_cluster.tsv',sep='\t',names=['cluster','member'])
-cv=df['cluster'].value_counts()
-cv.hist(bins=1000)
-plt.semilogy()
-
+##############################################################################
+df=pd.read_csv(clusterResTsv,sep='\t',names=['cluster','member'])
 clusterNames = set(df['cluster'] )
+
+#=df['cluster'].value_counts()
+#cv.hist(bins=1000)
+#plt.semilogy()
+
 clusterDict = { 'cluster':[], 'rep':[], 'species':[] }
 for name in clusterNames:
     path = os.path.join(fastaDirectory,name[:4].lower()+'.fasta')
-    print(f'\n{name = }')
     read = SeqIO.parse( path , 'fasta')
+    print(name,end=' ')
     for record in read: 
         if record.id.split('|')[0]==name:
-            print(record.description)
             clusterDict['cluster'].append(name)
             clusterDict['rep'].append(record.description.split('|')[-2])
             clusterDict['species'].append(record.description.split('|')[-1])
