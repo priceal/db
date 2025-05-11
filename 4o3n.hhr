@@ -1,0 +1,63 @@
+Query         4O3N_1|Chain A|DNA polymerase eta|Homo sapiens (9606)
+Match_columns 435
+No_of_seqs    1 out of 1
+Neff          1
+Searched_HMMs 1
+Date          Thu May  1 08:03:37 2025
+Command       hhalign -i 4o3n.fasta -t 4o3o.fasta 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4O3O_1|Chain A|DNA polymerase  100.0  1E-257  1E-257 1759.8   0.0  435    1-435     1-435 (435)
+
+No 1
+>4O3O_1|Chain A|DNA polymerase eta|Homo sapiens (9606)
+Probab=100.00  E-value=1.4e-257  Score=1759.82  Aligned_cols=435  Identities=100%  Similarity=1.466  Sum_probs=434.3  Template_Neff=1.000
+
+Q 4O3N_1|Chain      1 GPHMATGQDRVVALVDMDCFFVQVEQRQNPHLRNKPCAVVQYKSWKGGGIIAVSYEARAFGVTRSMWADDAKKLCPDLLL   80 (435)
+Q Consensus         1 gphmatgqdrvvalvdmdcffvqveqrqnphlrnkpcavvqykswkgggiiavsyearafgvtrsmwaddakklcpdlll   80 (435)
+                      ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+T Consensus         1 gphmatgqdrvvalvdmdcffvqveqrqnphlrnkpcavvqykswkgggiiavsyearafgvtrsmwaddakklcpdlll   80 (435)
+T 4O3O_1|Chain      1 GPHMATGQDRVVALVDMDCFFVQVEQRQNPHLRNKPCAVVQYKSWKGGGIIAVSYEARAFGVTRSMWADDAKKLCPDLLL   80 (435)
+Confidence            89999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q 4O3N_1|Chain     81 AQVRESRGKANLTKYREASVEVMEIMSRFAVIERASIDEAYVDLTSAVQERLQKLQGQPISADLLPSTYIEGLPQGPTTA  160 (435)
+Q Consensus        81 aqvresrgkanltkyreasvevmeimsrfavierasideayvdltsavqerlqklqgqpisadllpstyieglpqgptta  160 (435)
+                      +||||||||+||||||||||||||||||||||||||||||||||||+||||||||||||||+||||||||||||||||||
+T Consensus        81 aqvresrgkanltkyreasvevmeimsrfavierasideayvdltsavqerlqklqgqpisadllpstyieglpqgptta  160 (435)
+T 4O3O_1|Chain     81 AQVRESRGKANLTKYREASVEVMEIMSRFAVIERASIDEAYVDLTSAVQERLQKLQGQPISADLLPSTYIEGLPQGPTTA  160 (435)
+Confidence            99999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q 4O3N_1|Chain    161 EETVQKEGMRKQGLFQWLDSLQIDNLTSPDLQLTVGAVIVEEMRAAIERETGFQCSAGISHNKVLAKLACGLNKPNRQTL  240 (435)
+Q Consensus       161 eetvqkegmrkqglfqwldslqidnltspdlqltvgaviveemraaieretgfqcsagishnkvlaklacglnkpnrqtl  240 (435)
+                      ||||||||||||||||||||||||||||||||||||||||||||+|||||||||||||||||||||||||||||||||||
+T Consensus       161 eetvqkegmrkqglfqwldslqidnltspdlqltvgaviveemraaieretgfqcsagishnkvlaklacglnkpnrqtl  240 (435)
+T 4O3O_1|Chain    161 EETVQKEGMRKQGLFQWLDSLQIDNLTSPDLQLTVGAVIVEEMRAAIERETGFQCSAGISHNKVLAKLACGLNKPNRQTL  240 (435)
+Confidence            99999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q 4O3N_1|Chain    241 VSHGSVPQLFSQMPIRKIRSLGGKLGASVIEILGIEYMGELTQFTESQLQSHFGEKNGSWLYAMCRGIEHDPVKPRQLPK  320 (435)
+Q Consensus       241 vshgsvpqlfsqmpirkirslggklgasvieilgieymgeltqftesqlqshfgekngswlyamcrgiehdpvkprqlpk  320 (435)
+                      ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+T Consensus       241 vshgsvpqlfsqmpirkirslggklgasvieilgieymgeltqftesqlqshfgekngswlyamcrgiehdpvkprqlpk  320 (435)
+T 4O3O_1|Chain    241 VSHGSVPQLFSQMPIRKIRSLGGKLGASVIEILGIEYMGELTQFTESQLQSHFGEKNGSWLYAMCRGIEHDPVKPRQLPK  320 (435)
+Confidence            99999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q 4O3N_1|Chain    321 TIGCSKNFPGKTALATREQVQWWLLQLAQELEERLTKDRNDNDRVATQLVVSIRVQGDKRLSSLRRCCALTRYDAHKMSH  400 (435)
+Q Consensus       321 tigcsknfpgktalatreqvqwwllqlaqeleerltkdrndndrvatqlvvsirvqgdkrlsslrrccaltrydahkmsh  400 (435)
+                      ||||||||||||||||||||||||+|||||||||||||||||||||||||||||||||||||||||||||||||||||||
+T Consensus       321 tigcsknfpgktalatreqvqwwllqlaqeleerltkdrndndrvatqlvvsirvqgdkrlsslrrccaltrydahkmsh  400 (435)
+T 4O3O_1|Chain    321 TIGCSKNFPGKTALATREQVQWWLLQLAQELEERLTKDRNDNDRVATQLVVSIRVQGDKRLSSLRRCCALTRYDAHKMSH  400 (435)
+Confidence            99999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q 4O3N_1|Chain    401 DAFTVIKNCNTSGIQTEWSPPLTMLFLCATKFSAS  435 (435)
+Q Consensus       401 daftvikncntsgiqtewsppltmlflcatkfsas  435 (435)
+                      |||||||||||||||||||||||||||||||||||
+T Consensus       401 daftvikncntsgiqtewsppltmlflcatkfsas  435 (435)
+T 4O3O_1|Chain    401 DAFTVIKNCNTSGIQTEWSPPLTMLFLCATKFSAS  435 (435)
+Confidence            99999999999999999999999999999999997
+
+

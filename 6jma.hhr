@@ -1,0 +1,23 @@
+Query         6JMA_2|Chains C[auth A], G[auth E]|Histone H3.2|Xenopus laevis (8355)
+Match_columns 98
+No_of_seqs    1 out of 1
+Neff          1
+Searched_HMMs 1
+Date          Thu May  1 08:49:21 2025
+Command       hhalign -i 6jma.fasta -t 4o3n.fasta 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4O3N_1|Chain A|DNA polymerase    0.2    0.25    0.25   13.7   0.0   22   34-55    200-221 (435)
+
+No 1
+>4O3N_1|Chain A|DNA polymerase eta|Homo sapiens (9606)
+Probab=0.24  E-value=0.25  Score=13.74  Aligned_cols=22  Identities=27%  Similarity=0.365  Sum_probs=13.2  Template_Neff=1.000
+
+Q 6JMA_2|Chains    34 VREIAQDFKTDLRFQSSAVMAL   55 (98)
+Q Consensus        34 vreiaqdfktdlrfqssavmal   55 (98)
+                      |.|+.......--||.||-..-
+T Consensus       200 veemraaieretgfqcsagish  221 (435)
+T 4O3N_1|Chain    200 VEEMRAAIERETGFQCSAGISH  221 (435)
+Confidence            4555555555667887775443
+
+
